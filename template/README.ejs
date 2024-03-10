@@ -1,6 +1,6 @@
 <div align="center">
 
-# awesome-stars-eryajf
+# my-awesome-stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4?logo=github)](https://github.com/agu168)
@@ -8,6 +8,11 @@
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/agu168/my-awesome-stars#readme)
 
 🤩 我的star列表，每天凌晨自动更新 🤩
+
+不知不觉就积累了几百条stars，
+一页一页的翻看，真的有点费劲，
+还是放到一个page里面比较舒服，
+如果能更复杂一些，比如最后更新，AI总结，自动分类等等，就更好了。
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
 </div><br>
