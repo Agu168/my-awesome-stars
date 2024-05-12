@@ -22,6 +22,7 @@
 
 ## Table of Contents
 
+*   [Clojure](#clojure)
 *   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [HTML](#html)
@@ -50,13 +51,18 @@
 *   [Dockerfile](#dockerfile)
 *   [Markdown](#markdown)
 *   [Scala](#scala)
-*   [Clojure](#clojure)
 *   [MDX](#mdx)
 *   [CSS](#css)
 *   [SCSS](#scss)
 *   [Lua](#lua)
 *   [Astro](#astro)
 *   [Thanks](#thanks)
+
+## Clojure
+
+*   [howie-serious/feynman\_OS](https://github.com/howie-serious/feynman_OS) - 这是@howie.serious 的《费曼学习法》在笔记落地环节的示范项目。请直接通过网站体验效果。体验后有兴趣，则通过RELEASES 下载 logseq 模板。
+
+*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## TypeScript
 
@@ -746,8 +752,6 @@
 
 *   [meterscao/Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
 
-*   [OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around) - 自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。
-
 ## Python
 
 *   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬  基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
@@ -1287,10 +1291,6 @@
 ## Scala
 
 *   [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
-
-## Clojure
-
-*   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## MDX
 
