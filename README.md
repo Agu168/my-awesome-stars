@@ -198,6 +198,8 @@
 
 *   [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 
+*   [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
+
 *   [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 
 *   [pokon548/ai-gateway-openai-wrapper](https://github.com/pokon548/ai-gateway-openai-wrapper) - Provide OpenAI compatible, cost effective and proxied api endpoints on Cloudflare Worker. Foolproof considered
@@ -715,8 +717,6 @@
 ## Vue
 
 *   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
-
-*   [sugarforever/chat-ollama](https://github.com/sugarforever/chat-ollama) - ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.
 
 *   [ljxi/Cloudflare-R2-oss](https://github.com/ljxi/Cloudflare-R2-oss) - 利用Cloudflare R2 + Workers搭建在线网盘
 
@@ -1256,7 +1256,7 @@
 
 ## Kotlin
 
-*   [hefengbao/jingmo](https://github.com/hefengbao/jingmo) - 『京墨』开源的古诗词文（名句）、歇后语、成语、传统节日、绕口令等的阅读APP
+*   [hefengbao/jingmo](https://github.com/hefengbao/jingmo) - 『京墨』开源的中华文化宝典，诗（词）文（名句）、歇后语、成语、绕口令、传统节日、传统色、节气、汉字、人物等。
 
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
