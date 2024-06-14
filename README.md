@@ -64,7 +64,7 @@
 
 *   [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) - 一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces.
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀🚀🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 
 *   [xhrzg2017/Emby](https://github.com/xhrzg2017/Emby) - 一个基于Python开发能自动重命名qb下载的动漫，并自动上传到GD影视盘的脚本。
 
