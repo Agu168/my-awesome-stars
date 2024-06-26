@@ -22,8 +22,9 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [Python](#python)
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [C#](#c)
 *   [HTML](#html)
@@ -31,7 +32,6 @@
 *   [Vue](#vue)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
-*   [Shell](#shell)
 *   [Clojure](#clojure)
 *   [PHP](#php)
 *   [Dart](#dart)
@@ -58,7 +58,53 @@
 *   [Astro](#astro)
 *   [Thanks](#thanks)
 
+## Jupyter Notebook
+
+*   [zillionare/zillionare](https://github.com/zillionare/zillionare) - 请访问 😄www.jieyu.ai和公众号🫶量化风云
+
+*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
+
+*   [Cyclenerd/google-cloud-gcp-openai-api](https://github.com/Cyclenerd/google-cloud-gcp-openai-api) - 🌴 Drop-in replacement REST API for Vertex AI (PaLM 2, Codey, Gemini) that is compatible with the OpenAI API specifications
+
+*   [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:
+
+*   [mshumer/gpt-author](https://github.com/mshumer/gpt-author) -
+
+*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+
+*   [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
+
+*   [hululuzhu/chinese-ai-writing-share](https://github.com/hululuzhu/chinese-ai-writing-share) - 中文AI写作（写诗或写对联）
+
+*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
+
+*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
+
+*   [elroy93/12306spy](https://github.com/elroy93/12306spy) - 12306查票, 找到一张能上车的票
+
+*   [yangboz/LotteryPrediction](https://github.com/yangboz/LotteryPrediction) - :full\_moon\_with\_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed.
+
+*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+
+*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+
+*   [lewangdev/gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb) - 通过 Jupyter  Notebook 安装 GOST
+
+*   [charliedream1/ai\_quant\_trade](https://github.com/charliedream1/ai_quant_trade) - 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易
+
+*   [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) - 量化研究-券商金工研报复现
+
+*   [Miya-Su/Quantitative-Trading](https://github.com/Miya-Su/Quantitative-Trading) - 量化投资
+
+*   [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
+
+*   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
+
+*   [bupticybee/icyChessZero](https://github.com/bupticybee/icyChessZero) - 中国象棋alpha zero程序
+
 ## Python
+
+*   [happylwws/funcaptcha\_solver](https://github.com/happylwws/funcaptcha_solver) -
 
 *   [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 
@@ -264,7 +310,7 @@
 
 *   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
-*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.
+*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 
 *   [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 
@@ -396,53 +442,79 @@
 
 *   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 
-*   [Rockyzsu/stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
+## Shell
 
-*   [shidenggui/easytrader](https://github.com/shidenggui/easytrader) - 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
+*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - A script for IP quality detection
 
-*   [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
 
-## Jupyter Notebook
+*   [duyanghao/kubernetes-reading-notes](https://github.com/duyanghao/kubernetes-reading-notes) - Kubernetes源码阅读笔记，专注云原生、边缘计算、程序员综合素质以及自我修养
 
-*   [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - A collection of guides and examples for the Gemini API.
+*   [hurlenko/filebrowser-docker](https://github.com/hurlenko/filebrowser-docker) - 🐳 filebrowser inside Docker container
 
-*   [Cyclenerd/google-cloud-gcp-openai-api](https://github.com/Cyclenerd/google-cloud-gcp-openai-api) - 🌴 Drop-in replacement REST API for Vertex AI (PaLM 2, Codey, Gemini) that is compatible with the OpenAI API specifications
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 
-*   [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning :fire: :zap: :rainbow:
+*   [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
 
-*   [mshumer/gpt-author](https://github.com/mshumer/gpt-author) -
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
 
-*   [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
 
-*   [cloneofsimo/lora](https://github.com/cloneofsimo/lora) - Using Low-rank adaptation to quickly fine-tune diffusion models.
+*   [Mereithhh/vps-scripts](https://github.com/Mereithhh/vps-scripts) - 一些常用脚本
 
-*   [hululuzhu/chinese-ai-writing-share](https://github.com/hululuzhu/chinese-ai-writing-share) - 中文AI写作（写诗或写对联）
+*   [xykt/RegionRestrictionCheck](https://github.com/xykt/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
 
-*   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.
+*   [lee1080/CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
 
-*   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程
+*   [yulewang/cloudflare-api-v4-ddns](https://github.com/yulewang/cloudflare-api-v4-ddns) - Cloudflare API v4 Dynamic DNS Update in Bash
 
-*   [elroy93/12306spy](https://github.com/elroy93/12306spy) - 12306查票, 找到一张能上车的票
+*   [cmliu/CloudFlareIPlus](https://github.com/cmliu/CloudFlareIPlus) - 自动获取 AS209242 CIDR 并验证最新 CloudFlareCDN IP
 
-*   [yangboz/LotteryPrediction](https://github.com/yangboz/LotteryPrediction) - :full\_moon\_with\_face: Lottery prediction besides of following "law of proability","Probability: Independent Events", there are still "Saying "a Tail is due", or "just one more go, my luck is due to change" is called The Gambler's Fallacy" existed.
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
 
-*   [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+*   [Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker) - 独角数卡(发卡)Docker一键部署，支持AMD64/ARM64
 
-*   [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
+*   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
 
-*   [lewangdev/gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb) - 通过 Jupyter  Notebook 安装 GOST
+*   [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container) - Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端
 
-*   [charliedream1/ai\_quant\_trade](https://github.com/charliedream1/ai_quant_trade) - 股票AI操盘手：从学习、模拟到实盘，一站式平台。包含股票知识、策略实例、因子挖掘、传统策略、机器学习、深度学习、强化学习、图网络、高频交易、C++部署和聚宽实例代码等，可以方便学习、模拟及实盘交易
+*   [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) - 部署哪吒面板到fly.io
 
-*   [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook) - 量化研究-券商金工研报复现
+*   [hiifeng/V2ray-for-Replit](https://github.com/hiifeng/V2ray-for-Replit) - The tool can install v2ray on the repl, including VMess and VLess protocols, it will automatically switch IP, you need to fork this repl, read readme.md and run it. Create By xiaowansm，Modlfy By ifeng.
 
-*   [Miya-Su/Quantitative-Trading](https://github.com/Miya-Su/Quantitative-Trading) - 量化投资
+*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Multi-user web administration panel supporting Xray/Trojan-Go/Hysteria/NaiveProxy
 
-*   [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
+*   [MXCCO/lxdpro](https://github.com/MXCCO/lxdpro) - 一个基于LXD开系统容器的LXC与虚拟机KVM脚本,开小鸡不求人,让合租VPS更加方便
 
-*   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
+*   [fscarmen/tools](https://github.com/fscarmen/tools) -
 
-*   [bupticybee/icyChessZero](https://github.com/bupticybee/icyChessZero) - 中国象棋alpha zero程序
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
+
+*   [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+
+*   [uxh/superspeed](https://github.com/uxh/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh，修复无法测速问题
+
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+
+*   [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+
+*   [hiifeng/v2ray](https://github.com/hiifeng/v2ray) - V2ray多合一脚本，支持VMESS+websocket+TLS+Nginx、VLESS+TCP+XTLS、VLESS+TCP+TLS等组合
+
+*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+
+*   [fscarmen/warp\_unlock](https://github.com/fscarmen/warp_unlock) - WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
+
+*   [baoqihui/script](https://github.com/baoqihui/script) - 个人编写的常用shell脚本，可能用到其他项目源码，若侵权联系删除
+
+*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
+
+*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
+
+*   [daycat/stupid-simple-vmess](https://github.com/daycat/stupid-simple-vmess) - the hands-down most simple Vmess script
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [stilleshan/rssforever](https://github.com/stilleshan/rssforever) - Nginx + TTRSS / FreshRSS + RSSHub 整合 docker 容器化一键部署方案.
 
 ## TypeScript
 
@@ -1221,78 +1293,6 @@
 *   [JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io) - :bowtie: Agile Learning based on GitHub issues, KEEP Retrospection and Introspection! Thanks to @GitHub https://jimmylv.github.io/issues/
 
 *   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
-
-## Shell
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [duyanghao/kubernetes-reading-notes](https://github.com/duyanghao/kubernetes-reading-notes) - Kubernetes源码阅读笔记，专注云原生、边缘计算、程序员综合素质以及自我修养
-
-*   [hurlenko/filebrowser-docker](https://github.com/hurlenko/filebrowser-docker) - 🐳 filebrowser inside Docker container
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [QwenLM/Qwen2](https://github.com/QwenLM/Qwen2) - Qwen2 is the large language model series developed by Qwen team, Alibaba Cloud.
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
-
-*   [Mereithhh/vps-scripts](https://github.com/Mereithhh/vps-scripts) - 一些常用脚本
-
-*   [xykt/RegionRestrictionCheck](https://github.com/xykt/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
-
-*   [lee1080/CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
-
-*   [yulewang/cloudflare-api-v4-ddns](https://github.com/yulewang/cloudflare-api-v4-ddns) - Cloudflare API v4 Dynamic DNS Update in Bash
-
-*   [cmliu/CloudFlareIPlus](https://github.com/cmliu/CloudFlareIPlus) - 自动获取 AS209242 CIDR 并验证最新 CloudFlareCDN IP
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker) - 独角数卡(发卡)Docker一键部署，支持AMD64/ARM64
-
-*   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
-
-*   [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container) - Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端
-
-*   [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) - 部署哪吒面板到fly.io
-
-*   [hiifeng/V2ray-for-Replit](https://github.com/hiifeng/V2ray-for-Replit) - The tool can install v2ray on the repl, including VMess and VLess protocols, it will automatically switch IP, you need to fork this repl, read readme.md and run it. Create By xiaowansm，Modlfy By ifeng.
-
-*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Multi-user web administration panel supporting Xray/Trojan-Go/Hysteria/NaiveProxy
-
-*   [MXCCO/lxdpro](https://github.com/MXCCO/lxdpro) - 一个基于LXD开系统容器的LXC与虚拟机KVM脚本,开小鸡不求人,让合租VPS更加方便
-
-*   [fscarmen/tools](https://github.com/fscarmen/tools) -
-
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS融合怪服务器测评脚本(VPS Fusion Monster Server Test Script)(尽量做最全能测试服务器的脚本)
-
-*   [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-
-*   [uxh/superspeed](https://github.com/uxh/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh，修复无法测速问题
-
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-
-*   [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-
-*   [hiifeng/v2ray](https://github.com/hiifeng/v2ray) - V2ray多合一脚本，支持VMESS+websocket+TLS+Nginx、VLESS+TCP+XTLS、VLESS+TCP+TLS等组合
-
-*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-
-*   [fscarmen/warp\_unlock](https://github.com/fscarmen/warp_unlock) - WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本
-
-*   [baoqihui/script](https://github.com/baoqihui/script) - 个人编写的常用shell脚本，可能用到其他项目源码，若侵权联系删除
-
-*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
-
-*   [fscarmen/warp](https://github.com/fscarmen/warp) - WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本
-
-*   [daycat/stupid-simple-vmess](https://github.com/daycat/stupid-simple-vmess) - the hands-down most simple Vmess script
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-*   [stilleshan/rssforever](https://github.com/stilleshan/rssforever) - Nginx + TTRSS / FreshRSS + RSSHub 整合 docker 容器化一键部署方案.
 
 ## Clojure
 
