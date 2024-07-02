@@ -334,7 +334,7 @@
 
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统，1Panel 官方出品。
 
 *   [xhrzg2017/Emby](https://github.com/xhrzg2017/Emby) - 一个基于Python开发能自动重命名qb下载的动漫，并自动上传到GD影视盘的脚本。
 
