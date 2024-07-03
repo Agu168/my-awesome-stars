@@ -60,7 +60,7 @@
 
 ## TypeScript
 
-*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱，支持收发邮件，多域名邮箱配置，密码找回。
+*   [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱，支持多域名后缀，密码找回。
 
 *   [zmzimpl/chrome-power-app](https://github.com/zmzimpl/chrome-power-app) - The first open source fingerprint browser.
 
