@@ -22,6 +22,7 @@
 
 ## Table of Contents
 
+*   [Markdown](#markdown)
 *   [Python](#python)
 *   [Go](#go)
 *   [TypeScript](#typescript)
@@ -57,6 +58,10 @@
 *   [SCSS](#scss)
 *   [Lua](#lua)
 *   [Thanks](#thanks)
+
+## Markdown
+
+*   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 
 ## Python
 
@@ -122,7 +127,7 @@
 
 *   [togethercomputer/MoA](https://github.com/togethercomputer/MoA) - Together Mixture-Of-Agents (MoA) –  65.1% on AlpacaEval with OSS models
 
-*   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - Dify in comfyui is compatible with Omost,ChatTTS, and adapts to all models with similar openai interfaces, such as ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local models such as llama/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG.Supports a variety of RAG.
+*   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - Dify in comfyui is compatible with Omost,ChatTTS, and adapts to all models with similar openai interfaces, such as ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local models such as llama/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG.Supports a variety of RAG.Access to Feishu.
 
 *   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 
@@ -415,8 +420,6 @@
 *   [reycn/cubox-to-notion](https://github.com/reycn/cubox-to-notion) - A slight but fast synchronization tool for Notions users to utilize Cubox.
 
 *   [Qliangw/notion\_sync\_data](https://github.com/Qliangw/notion_sync_data) - 将豆瓣中的个人标记媒体同步到notion笔记，方便快速查阅。
-
-*   [Boris-code/feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度
 
 ## Go
 
