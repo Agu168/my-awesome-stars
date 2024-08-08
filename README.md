@@ -432,7 +432,7 @@
 
 ## TypeScript
 
-*   [RSSNext/follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
+*   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 
 *   [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts
 
