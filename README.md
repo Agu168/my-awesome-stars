@@ -22,10 +22,10 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [TypeScript](#typescript)
@@ -59,6 +59,154 @@
 *   [SCSS](#scss)
 *   [Lua](#lua)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [soulteary/docker-flare](https://github.com/soulteary/docker-flare) - Flare ✨ Lightweight, high performance and fast self-hosted navigation pages, resource utilization rate is <1% CPU, MEM <30 M, Docker Image < 10M
+
+*   [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
+
+*   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+
+*   [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
+
+*   [lllyasviel/LayerDiffuse](https://github.com/lllyasviel/LayerDiffuse) - Transparent Image Layer Diffusion using Latent Transparency
+
+*   [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki) - Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
+
+*   [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+
+*   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+*   [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+
+*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+
+*   [GPTGeeker/securityGPT](https://github.com/GPTGeeker/securityGPT) - Protect your GPTs through secure prompts to prevent malicious data leaks. 通过安全 Prompt 保护你的 GPTs ，避免内容被恶意泄露
+
+*   [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
+
+*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+
+*   [ConnectAI-E/Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [CMBill/lxgw-wenkai-screen-web](https://github.com/CMBill/lxgw-wenkai-screen-web) - LXGW WenKai Screen / 霞鹜文楷屏幕阅读版 网络字体仓库
+
+*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
+
+*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+
+*   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+
+*   [popjane/free\_chatgpt\_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
+
+*   [DSXiangLi/DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt) - 总结Prompt\&LLM论文，开源数据&模型，AIGC应用
+
+*   [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
+
+*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
+
+*   [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
+
+*   [0xeb/gpt-analyst](https://github.com/0xeb/gpt-analyst) - GPT-Analyst: A GPT for GPT analysis and reverse engineering
+
+*   [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
+
+*   [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
+
+*   [sunlei/awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具
+
+*   [jchang274/market-breadth](https://github.com/jchang274/market-breadth) - 计算美股、A股市场宽度
+
+*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
+
+*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+*   [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
+
+*   [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
+
+*   [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
+
+*   [mohuani/awesome-ai](https://github.com/mohuani/awesome-ai) - 整理一些AI相关的资讯和应用
+
+*   [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh) - docsify 中文文档
+
+*   [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
+
+*   [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
+
+*   [pashangshangpo/AI-Create-Video](https://github.com/pashangshangpo/AI-Create-Video) - AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，智能配图、智能配音、视频字幕。
+
+*   [venkio/DomainTools](https://github.com/venkio/DomainTools) - 批量-快速-自定义-扫描200多个顶级域名有没有被注册，域名扫描，注册查询，批量扫描
+
+*   [eryajf/awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) - 🙋 问得好，🗣 答得妙。那些值得记录的与ChatGPT的问答。
+
+*   [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
+
+*   [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile)
+
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+*   [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) -
+
+*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+
+*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
+
+*   [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity - Chinese version）
+
+*   [alaskasquirrel/Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
+
+*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+
+*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
+
+*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+*   [madawei2699/notion-sites](https://github.com/madawei2699/notion-sites) - 发掘Notion好站
+
+*   [sushengbuhuo/wechat\_articles](https://github.com/sushengbuhuo/wechat_articles) - 公众号批量导出下载：微信公众号文章列表备份，支持导出HTML，PDF格式，包含阅读数/点赞数/在看数/留言数
+
+*   [akfamily/awesome-data](https://github.com/akfamily/awesome-data) - Awesome-data shows most interesting data-source around the financial world!
+
+*   [DropsOfZut/awesome-security-weixin-official-accounts](https://github.com/DropsOfZut/awesome-security-weixin-official-accounts) - 网络安全类公众号推荐，欢迎大家推荐
+
+*   [oncework/kuaixieya](https://github.com/oncework/kuaixieya) - 「快写鸭」是一款专为开发者开发的一站式写作、管理、发布的更简单且下载即用的效率工具，去除繁琐配置但又极具丰富且自定义性质等功能。
+
+*   [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - \[已停止服务] 给微信公众号生成 RSS 订阅源
+
+*   [Colin-XKL/RSSmanX](https://github.com/Colin-XKL/RSSmanX) - RSSman X 一套综合RSS解决方案
+
+*   [chasays/newsletter-list](https://github.com/chasays/newsletter-list) - 有趣，免费的 newsletter，欢迎推荐
+
+*   [yangmyc/jsproxy](https://github.com/yangmyc/jsproxy) -
+
+*   [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
+
+*   [JimmyLv/jimmylv.github.io](https://github.com/JimmyLv/jimmylv.github.io) - :bowtie: Agile Learning based on GitHub issues, KEEP Retrospection and Introspection! Thanks to @GitHub https://jimmylv.github.io/issues/
+
+*   [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 
 ## Shell
 
@@ -134,6 +282,10 @@
 
 *   [daycat/stupid-simple-vmess](https://github.com/daycat/stupid-simple-vmess) - the hands-down most simple Vmess script
 
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [stilleshan/rssforever](https://github.com/stilleshan/rssforever) - Nginx + TTRSS / FreshRSS + RSSHub 整合 docker 容器化一键部署方案.
+
 ## Jupyter Notebook
 
 *   [geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything) - Inpaint anything using Segment Anything and inpainting models.
@@ -180,9 +332,13 @@
 
 *   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 
+*   [bupticybee/icyChessZero](https://github.com/bupticybee/icyChessZero) - 中国象棋alpha zero程序
+
+*   [BrambleXu/pydata-notebook](https://github.com/BrambleXu/pydata-notebook) - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
+
 ## Python
 
-*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image (uncensored)
+*   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
 *   [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record
 
@@ -538,127 +694,71 @@
 
 *   [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 
-## miscellaneous
+*   [reycn/cubox-to-notion](https://github.com/reycn/cubox-to-notion) - A slight but fast synchronization tool for Notions users to utilize Cubox.
 
-*   [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
+*   [Qliangw/notion\_sync\_data](https://github.com/Qliangw/notion_sync_data) - 将豆瓣中的个人标记媒体同步到notion笔记，方便快速查阅。
 
-*   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+*   [Boris-code/feapder](https://github.com/Boris-code/feapder) - 🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度
 
-*   [karpathy/LLM101n](https://github.com/karpathy/LLM101n) - LLM101n: Let's build a Storyteller
+*   [match5/thsauto](https://github.com/match5/thsauto) - 同花顺自动下单工具
 
-*   [lllyasviel/LayerDiffuse](https://github.com/lllyasviel/LayerDiffuse) - Transparent Image Layer Diffusion using Latent Transparency
+*   [hengxuZ/binance-quantization](https://github.com/hengxuZ/binance-quantization) - 虚拟货币(BTC、ETH)炒币量化系统项目。币安交易所-量化交易-网格策略实践。火币、OKEX热门交易所未来都支持。最简单收益最靠谱的项目，包教包会。
 
-*   [602387193c/ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki) - Everything about ComfyUI, including workflow sharing, resource sharing, knowledge sharing, tutorial sharing, and more.关于ComfyUI的一切，工作流分享、资源分享、知识分享、教程分享等
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
-*   [ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) - 我的 ComfyUI 工作流合集 | My ComfyUI workflows collection
+*   [losquare/rss-to-notion](https://github.com/losquare/rss-to-notion) - 抓取 RSS 源中的信息并导入notion 中的指定表格
 
-*   [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+*   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+*   [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
 
-*   [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+*   [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
-*   [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+*   [refraction-ray/xalpha](https://github.com/refraction-ray/xalpha) - 基金投资管理回测引擎
 
-*   [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
+*   [AdvancingStone/stock-data-analysis-and-prediction](https://github.com/AdvancingStone/stock-data-analysis-and-prediction) - 根据北向和主力资金的行为分析和预测后市股票的涨跌
 
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+*   [CBJerry993/TT\_Fund](https://github.com/CBJerry993/TT_Fund) - 天天基金网爬虫：北向资金、基金每日净值涨跌、大盘涨跌、基金公司信息
 
-*   [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) - Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.
+*   [pythonstock/stock](https://github.com/pythonstock/stock) - stock，股票系统。使用python进行开发。
 
-*   [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+*   [shidenggui/easyquant](https://github.com/shidenggui/easyquant) - 股票量化框架，支持行情获取以及交易
 
-*   [GPTGeeker/securityGPT](https://github.com/GPTGeeker/securityGPT) - Protect your GPTs through secure prompts to prevent malicious data leaks. 通过安全 Prompt 保护你的 GPTs ，避免内容被恶意泄露
+*   [LYY/ShiPanE-Python-SDK](https://github.com/LYY/ShiPanE-Python-SDK) - 实盘易（ShiPanE）Python SDK，通达信自动化交易 API。
 
-*   [B3o/GPTS-Prompt-Collection](https://github.com/B3o/GPTS-Prompt-Collection) - 收集GPTS的prompt  /   Collect the prompt of GPTS
+*   [ctpbee/ctpbee](https://github.com/ctpbee/ctpbee) - 简单易用的期货实盘ctp交易框架 支持ctp和ctp\_mini
 
-*   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
+*   [Python3Spiders/StockSpider](https://github.com/Python3Spiders/StockSpider) - 股票数据爬虫+分析+可视化框架
 
-*   [ConnectAI-E/Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) - 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目
+*   [DataIntegrationAlliance/data\_integration\_celery](https://github.com/DataIntegrationAlliance/data_integration_celery) - 通过celery定期执行更相关任务，将万得wind，同花顺ifind，东方财富choice、Tushrae、JQDataSDK、pytdx、CMC等数据终端的数据进行整合，清洗，一致化，供其他系统数据分析使用
 
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 
-*   [CMBill/lxgw-wenkai-screen-web](https://github.com/CMBill/lxgw-wenkai-screen-web) - LXGW WenKai Screen / 霞鹜文楷屏幕阅读版 网络字体仓库
+*   [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
-*   [eryajf/learning-weekly](https://github.com/eryajf/learning-weekly) - 📝 周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验。欢迎star点赞收藏👆🌟
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 
-*   [eryajf/awesome-stars-eryajf](https://github.com/eryajf/awesome-stars-eryajf) - 🤩 我的star列表，每天凌晨自动更新
+*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 
-*   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+*   [littlecodersh/itchatmp](https://github.com/littlecodersh/itchatmp) - A complete and graceful API for wechat mp. 完备优雅的微信公众号接口，原生支持同步、协程使用。
 
-*   [popjane/free\_chatgpt\_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
+*   [sinall/StrategyEase-Python-SDK](https://github.com/sinall/StrategyEase-Python-SDK) - 策略易（StrategyEase）Python SDK，策略自动化交易 API 及量化平台。
 
-*   [DSXiangLi/DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt) - 总结Prompt\&LLM论文，开源数据&模型，AIGC应用
+*   [PKUJohnson/OpenData](https://github.com/PKUJohnson/OpenData) - 开源的金融投资数据提取工具，专注在各类网站上爬取数据，并通过简单易用的API方式使用
 
-*   [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook) - Blockchain dark forest selfguard handbook. Master these, master the security of your cryptocurrency.
+*   [Jerry1014/FundCrawler](https://github.com/Jerry1014/FundCrawler) - 爬取天天基金网，辅助对投资基金的选择
 
-*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
+*   [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 
-*   [EmbraceAGI/Awesome-AI-GPTs](https://github.com/EmbraceAGI/Awesome-AI-GPTs) - Awesome AI GPTs, OpenAI GPTs, GPT-4, ChatGPT, GPTs, Prompts, plugins, Prompts leaking
+*   [Rockyzsu/stock](https://github.com/Rockyzsu/stock) - 30天掌握量化交易 (持续更新)
 
-*   [0xeb/gpt-analyst](https://github.com/0xeb/gpt-analyst) - GPT-Analyst: A GPT for GPT analysis and reverse engineering
+*   [shidenggui/easytrader](https://github.com/shidenggui/easytrader) - 提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件
 
-*   [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
+*   [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 
-*   [Anil-matcha/Awesome-GPT-Store](https://github.com/Anil-matcha/Awesome-GPT-Store) - Custom GPT Store - A collection of major GPTS available in public
-
-*   [sunlei/awesome-tools](https://github.com/sunlei/awesome-tools) - 我常用或收集的工具
-
-*   [jchang274/market-breadth](https://github.com/jchang274/market-breadth) - 计算美股、A股市场宽度
-
-*   [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
-
-*   [oldwinter/knowledge-garden](https://github.com/oldwinter/knowledge-garden) - 我的第二大脑 second brain，我的数字花园 digital garden，用obsidian双链笔记软件写作而成
-
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-
-*   [radi-cho/awesome-gpt4](https://github.com/radi-cho/awesome-gpt4) - A curated list of prompts, tools, and resources regarding the GPT-4 language model.
-
-*   [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
-
-*   [willwulfken/MidJourney-Styles-and-Keywords-Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!
-
-*   [mohuani/awesome-ai](https://github.com/mohuani/awesome-ai) - 整理一些AI相关的资讯和应用
-
-*   [docsifyjs/docs-zh](https://github.com/docsifyjs/docs-zh) - docsify 中文文档
-
-*   [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
-
-*   [DeepTecher/awesome-ChatGPT-resource-zh](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh) - 精选 OpenAI 的 [ChatGPT](https://chat.openai.com) 资源清单, 跟随最新资源并添加中文相关Work
-
-*   [pashangshangpo/AI-Create-Video](https://github.com/pashangshangpo/AI-Create-Video) - AI批量文本一键生成短视频工具，傻瓜式图文生成视频软件，智能配图、智能配音、视频字幕。
-
-*   [venkio/DomainTools](https://github.com/venkio/DomainTools) - 批量-快速-自定义-扫描200多个顶级域名有没有被注册，域名扫描，注册查询，批量扫描
-
-*   [eryajf/awesome-chatgpt-answer](https://github.com/eryajf/awesome-chatgpt-answer) - 🙋 问得好，🗣 答得妙。那些值得记录的与ChatGPT的问答。
-
-*   [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
-
-*   [spiritLHLS/Hang-up-items](https://github.com/spiritLHLS/Hang-up-items) - 问卷调查项目，云服务器推荐，挂机项目，免费代理，各种脚本收集。欢迎右上角点铃铛及时收取更新信息。(不要fork，低调) Questionnaire project, cloud server recommendation, hanging project, free proxy, various script collection. Welcome to the upper right corner of the point bell to receive timely updates. (Do not fork, low profile)
-
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-
-*   [ip-scanner/cloudflare](https://github.com/ip-scanner/cloudflare) -
-
-*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
-
-*   [xiaye13579/BBLL](https://github.com/xiaye13579/BBLL) - 一个第三方哔哩哔哩客户端，A third-party bilibili client。
-
-*   [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn) - 绝妙的个人生产力（Awesome Productivity - Chinese version）
-
-*   [alaskasquirrel/Email-newsletter-RSS](https://github.com/alaskasquirrel/Email-newsletter-RSS) - 邮箱 📧 newsletter RSS 荟萃 News
-
-*   [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-
-*   [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
-
-*   [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+*   [benitoro/stockholm](https://github.com/benitoro/stockholm) - 一个股票数据（沪深）爬虫和选股策略测试框架
 
 ## JavaScript
 
@@ -822,6 +922,44 @@
 
 *   [molly/web3-is-going-great](https://github.com/molly/web3-is-going-great) - A timeline of some of the greatest hits in cryptocurrencies, NFTs, and other web3 projects since the beginning of 2021
 
+*   [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
+
+*   [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
+
+*   [lyh081/Book2Notion](https://github.com/lyh081/Book2Notion) - 将豆瓣图书信息同步到Notion的Chrome插件
+
+*   [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+
+*   [lqqyt2423/wechat\_spider](https://github.com/lqqyt2423/wechat_spider) - 微信爬虫，获取文章内容、阅读量、点赞量、评论等，获取公众号所有历史文章链接。
+
+*   [SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis) - Analyse the structure of your Obsidian graph using various analysis techniques
+
+*   [draJiang/flomo-linker](https://github.com/draJiang/flomo-linker) - 这是一款 flomo 相关的工具；输入新想法并在已有笔记中寻找相关笔记，帮助用户完成线索的链接和思维的发散。
+
+*   [devopsgroup-io/siteshooter](https://github.com/devopsgroup-io/siteshooter) - :camera: Automate full website screenshots and PDF generation with multiple viewport support.
+
+*   [GraySilver/wencai](https://github.com/GraySilver/wencai) - This is a wencai crawler.（i问财的策略回测接口的Pythonic工具包）
+
+*   [ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) - 微信公众号转RSS
+
+*   [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
+
+*   [ravgeetdhillon/notion-feeder](https://github.com/ravgeetdhillon/notion-feeder) - 🕸 A Node app for creating a Feed Reader in Notion.
+
+*   [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
+
+*   [liyupi/code-nav](https://github.com/liyupi/code-nav) - 💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！
+
+*   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+
+*   [17881055/UnionLotto](https://github.com/17881055/UnionLotto) - 双色球 统计 electron+react
+
+*   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
+
+*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+
+*   [KOHGYLW/kiftd](https://github.com/KOHGYLW/kiftd) - sky driver & cloud driver open source server application : kiftd . welcome to the home page: https://kohgylw.github.io/ to quick start——kiftd是一款专门面向个人、团队和小型组织的私有网盘系统。轻量、开源、完善。无论是在家庭、学校还是在办公室，您都能立刻开始使用它！了解更多请访问官方网站：
+
 ## Java
 
 *   [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
@@ -837,6 +975,10 @@
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
 *   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+
+*   [decaywood/XueQiuSuperSpider](https://github.com/decaywood/XueQiuSuperSpider) - 雪球股票信息超级爬虫
+
+*   [coderbuff-lab/inc](https://github.com/coderbuff-lab/inc) - 中国互联网公司市值实时排名
 
 ## TypeScript
 
@@ -1100,6 +1242,20 @@
 
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 
+*   [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
+
+*   [geekape/geek-navigation](https://github.com/geekape/geek-navigation) - ❤️ 极客猿导航－独立开发者的导航站！
+
+*   [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+*   [SunshowerC/fund-strategy](https://github.com/SunshowerC/fund-strategy) - 基金投资策略分析，基金回测工具
+
+*   [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
+
+*   [Qsnh/meedu](https://github.com/Qsnh/meedu) - Meedu是一款功能强大的开源在线教育系统，适用于个人、企业或机构搭建自己的在线学习平台。它提供了完整的解决方案，满足网校搭建、在线教学、企业培训和知识付费等多种需求。
+
 ## Vue
 
 *   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP)
@@ -1145,6 +1301,10 @@
 *   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 *   [meterscao/Speechless](https://github.com/meterscao/Speechless) - 把新浪微博的内容，导出成 PDF 文件进行备份的 Chrome Extension。
+
+*   [OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around) - 自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## Rust
 
@@ -1278,6 +1438,10 @@
 
 *   [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 
+*   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
+
+*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+
 ## HTML
 
 *   [comfyanonymous/ComfyUI\_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
@@ -1346,6 +1510,8 @@
 
 *   [Nicolas-Gong/koyeb](https://github.com/Nicolas-Gong/koyeb) - 某容器云部署Xray高性能代理服务
 
+*   [lzyyauto/efb2w](https://github.com/lzyyauto/efb2w) -
+
 ## MDX
 
 *   [6174/comflowy](https://github.com/6174/comflowy) - Unleash endless possibilities with ComfyUI and Stable Diffusion, committed to crafting refined AI-Gen tools and cultivating a vibrant community for both developers and users.
@@ -1380,6 +1546,12 @@
 
 *   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 
+*   [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
+
+*   [anhkgg/SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC) - 超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK
+
+*   [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
+
 ## Astro
 
 *   [javayhu/haitang](https://github.com/javayhu/haitang) - 海棠诗社，古诗词的数字桃源
@@ -1407,6 +1579,8 @@
 *   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 
 *   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+
+*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 
 ## Clojure
 
@@ -1438,6 +1612,16 @@
 
 *   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 
+*   [pchang78/notion-content](https://github.com/pchang78/notion-content) - Wordpress Plugin for displaying content from Notion
+
+*   [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme) - CorePress 主题，一款高性能，高颜值的WordPress主题
+
+*   [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+
+*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
+
+*   [likeyun/WeChat-Group-HuoMa](https://github.com/likeyun/WeChat-Group-HuoMa) - 微信群二维码活码工具，生成微信群活码，随时可以切换二维码！
+
 ## Dart
 
 *   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
@@ -1458,6 +1642,8 @@
 
 *   [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+
 ## Svelte
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -1476,9 +1662,13 @@
 
 *   [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
 
+*   [insoxin/qrpay](https://github.com/insoxin/qrpay) - 五合一收款码在线生成,40个模板 支持微信支付、支付宝支付、手机QQ支付、京东钱包、百度钱包,PayPal五合一收款，将其二维码合并为一个二维码，无需手续费,支持qq头像,昵称判断(HTML单页版多模板免安装) 腾讯云服务器 https://api.isoyu.com/qrpay/  腾讯云COS https://qrpay.isoyu.com/
+
 ## Batchfile
 
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [ParrySMS/batteryreport](https://github.com/ParrySMS/batteryreport) - a simple bat to get battery report
 
 ## CoffeeScript
 
@@ -1523,6 +1713,16 @@
 *   [PKM-er/Obsidian-Plug-and-Play](https://github.com/PKM-er/Obsidian-Plug-and-Play) - 一个简单的Obsidian 即开即用库，希望它能节省你调试的时间，更多关注笔记和知识本身。A simple Obsidian plug and play vault.Hopefully it will save you time debugging and pay more attention to the notes and knowledge itself.
 
 *   [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
+
+*   [1251240000/StockVisualization](https://github.com/1251240000/StockVisualization) - 基于Django框架的Tushare股票数据可视化平台
+
+*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+
+*   [booooodv/PodLetter](https://github.com/booooodv/PodLetter) - 播客、简报导航网站
+
+*   [88250/solo](https://github.com/88250/solo) - 🎸 B3log 分布式社区的 Java 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Java, welcome to join the next generation community network.
+
+*   [zlq4863947/tradingViewWikiCn](https://github.com/zlq4863947/tradingViewWikiCn) - tradingView的中文开发文档
 
 ## SCSS
 
