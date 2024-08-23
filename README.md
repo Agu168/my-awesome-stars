@@ -608,7 +608,7 @@
 
 *   [SoraFlows/GoOut.tools](https://github.com/SoraFlows/GoOut.tools) - Go Out出海第一步，搞定工具库 独立开发者出海技术栈和工具, 收集的一些有用的出海工具和资源，可以帮助你更好地了解和进入海外市场。 挑选标准 帮助独立开发者提升开发效率 帮助独立开发者降低成本 市场上足够流行
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
 
 *   [ravenSanstete/Obsidian-MantouAI](https://github.com/ravenSanstete/Obsidian-MantouAI) - MantouAI—— 让Obsidian变身智能助手
 
