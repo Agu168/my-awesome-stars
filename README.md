@@ -130,7 +130,7 @@
 
 *   [togethercomputer/MoA](https://github.com/togethercomputer/MoA) - Together Mixture-Of-Agents (MoA) –  65.1% on AlpacaEval with OSS models
 
-*   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - Dify in comfyui is compatible with Omost,ChatTTS,FLUX prompt generator,access to Feishu,discord,and adapts to all models with similar openai interfaces, such as ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local models such as llama/ Peach-9B/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG.Supports a variety of RAG.
+*   [heshengtao/comfyui\_LLM\_party](https://github.com/heshengtao/comfyui_LLM_party) - Dify in ComfyUI includes Omost, ChatTTS, and FLUX prompt nodes,access to Feishu,discord,and adapts to all models with similar openai interfaces, such as ollama, qwen, GLM, deepseek, moonshot,doubao. Adapted to local models such as llama/ Peach-9B/qwen/GLM,Linkage neo4j KG，Implemented the function of graphRAG.Supports a variety of RAG.
 
 *   [AiuniAI/Unique3D](https://github.com/AiuniAI/Unique3D) - Official implementation of Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image
 
