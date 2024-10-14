@@ -1468,11 +1468,11 @@
 
 *   [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP)
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个Linux服务器WEB SSH面板(webSSH\&webSFTP). 更新通知tg：
 
 *   [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare
 
-*   [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
+*   [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN & Real-CUGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
 
 *   [yangjian102621/geekai](https://github.com/yangjian102621/geekai) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
 
