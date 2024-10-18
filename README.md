@@ -590,7 +590,7 @@
 
 *   [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience.
 
-*   [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - QQ、Telegram、微信 等多平台兼容的支持 LLM 聊天的机器人平台。支持自定义插件扩展。
+*   [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - QQ、Telegram等多平台兼容的支持 LLM 聊天的机器人平台。支持自定义插件扩展。
 
 *   [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own chatgpt Bot|🧀 Discord/Slack/Kook/Telegram |⛓ ToolCall|🔖 Plugin Support | 🌻 out-of-box | gpt-4o
 
