@@ -1458,7 +1458,7 @@
 
 *   [fpmon/fingerprinting-monitor](https://github.com/fpmon/fingerprinting-monitor) - A fingerprinting monitor for Chrome.
 
-*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
+*   [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 
 *   [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 
