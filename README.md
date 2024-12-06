@@ -38,6 +38,7 @@
 *   [CSS](#css)
 *   [C++](#c)
 *   [Ruby](#ruby)
+*   [SCSS](#scss)
 *   [Svelte](#svelte)
 *   [Objective-C](#objective-c)
 *   [Markdown](#markdown)
@@ -56,7 +57,6 @@
 *   [Nim](#nim)
 *   [JSON](#json)
 *   [Scala](#scala)
-*   [SCSS](#scss)
 *   [Lua](#lua)
 *   [Thanks](#thanks)
 
@@ -1462,8 +1462,6 @@
 
 *   [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
 
-*   [criwits/missing-web](https://github.com/criwits/missing-web) - 你缺失的那门计算机课（网页版）| Your Missing Semester of Using Computer (Web Version)
-
 *   [comfyanonymous/ComfyUI\_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 
 *   [SoftMeng/comfy-flow-api](https://github.com/SoftMeng/comfy-flow-api) - 对ComfyUI的API进行的一层封装，并提供了微信小程序授权的API
@@ -1774,6 +1772,12 @@
 
 *   [TracksApp/tracks](https://github.com/TracksApp/tracks) - Tracks is a GTD™ web application, built with Ruby on Rails
 
+## SCSS
+
+*   [criwits/missing-web](https://github.com/criwits/missing-web) - 你缺失的那门计算机课（网页版）| Your Missing Semester of Using Computer (Web Version)
+
+*   [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
+
 ## Svelte
 
 *   [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS aggregator and reader
@@ -1923,10 +1927,6 @@
 ## Scala
 
 *   [microsoft/SynapseML](https://github.com/microsoft/SynapseML) - Simple and Distributed Machine Learning
-
-## SCSS
-
-*   [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## Lua
 
