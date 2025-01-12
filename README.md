@@ -22,6 +22,7 @@
 
 ## Table of Contents
 
+*   [Astro](#astro)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -32,7 +33,6 @@
 *   [C](#c)
 *   [Swift](#swift)
 *   [Shell](#shell)
-*   [Astro](#astro)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [PHP](#php)
@@ -59,6 +59,16 @@
 *   [SCSS](#scss)
 *   [Lua](#lua)
 *   [Thanks](#thanks)
+
+## Astro
+
+*   [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
+
+*   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
+
+*   [javayhu/haitang](https://github.com/javayhu/haitang) - 海棠诗社，古诗词的数字桃源
+
+*   [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
 
 ## TypeScript
 
@@ -476,7 +486,7 @@
 
 *   [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience. UI enabled.
 
-*   [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信平台，OpenAI GPT、Ollama、DeepSeek、Llama、GLM、Gemini、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器。
+*   [Soulter/AstrBot](https://github.com/Soulter/AstrBot) - ✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信平台、内置 Web Chat，OpenAI GPT、Ollama、DeepSeek、Llama、GLM、Gemini、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。
 
 *   [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot) - ⚡️ Build Your Own chatgpt Bot|🧀 Discord/Slack/Kook/Telegram |⛓ ToolCall|🔖 Plugin Support | 🌻 out-of-box | gpt-4o
 
@@ -802,7 +812,7 @@
 
 *   [yihong0618/bilingual\_book\_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 
-*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
+*   [run-llama/llama\_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data
 
 *   [AirportR/fulltclash](https://github.com/AirportR/fulltclash) - General proxy performance testing tool based on Clash using Telegram API.
 
@@ -1510,14 +1520,6 @@
 
 *   [daycat/stupid-simple-vmess](https://github.com/daycat/stupid-simple-vmess) - the hands-down most simple Vmess script
 
-## Astro
-
-*   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
-
-*   [javayhu/haitang](https://github.com/javayhu/haitang) - 海棠诗社，古诗词的数字桃源
-
-*   [tw93/weekly](https://github.com/tw93/weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
-
 ## Vue
 
 *   [yy4382/s3-image-port](https://github.com/yy4382/s3-image-port) - A dashboard to manage your images in S3 buckets. Can be used as a image hosting service.
@@ -1573,8 +1575,6 @@
 *   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
 
 *   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-
-*   [OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around) - 自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。
 
 ## HTML
 
