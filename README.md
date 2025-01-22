@@ -516,7 +516,7 @@
 
 *   [howie6879/weekly](https://github.com/howie6879/weekly) - 老胡的信息技术周刊❤️记录我本周看到的有价值的信息，针对优秀项目、软件、教程资料、网站等。
 
-*   [shenweiyan/Knowledge-Garden](https://github.com/shenweiyan/Knowledge-Garden) - All in Discussions 的个人知识花园，没事写写文章，喜欢的话请点 Star，想订阅点 Watch。
+*   [shenweiyan/Digital-Garden](https://github.com/shenweiyan/Digital-Garden) - All in Discussions 的个人数字花园，没事写写文章，喜欢的话请点 Star，想订阅点 Watch。
 
 *   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 
@@ -613,6 +613,8 @@
 *   [biobootloader/wolverine](https://github.com/biobootloader/wolverine) -
 
 *   [myreader-io/myGPTReader](https://github.com/myreader-io/myGPTReader) - A community-driven way to read and chat with AI bots - powered by chatGPT.
+
+*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 
 *   [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) -
 
@@ -1324,8 +1326,6 @@
 
 *   [xcatliu/chatgpt-next](https://github.com/xcatliu/chatgpt-next) - 微信风格的 ChatGPT，使用 Next.js 构建，私有化部署的最佳选择！
 
-*   [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
-
 *   [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 *   [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
@@ -1742,7 +1742,7 @@
 
 *   [october-coder/api-check](https://github.com/october-coder/api-check) - Pure Front-End API Testing Tool
 
-*   [chaitin/xray](https://github.com/chaitin/xray) - 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+*   [chaitin/xray](https://github.com/chaitin/xray) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 
 *   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
 
