@@ -110,7 +110,7 @@
 
 *   [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 
@@ -1222,7 +1222,7 @@
 
 *   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 
-*   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
+*   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - A groundbreaking open-source browser translation extension that allows everyone to enjoy a reading experience akin to their native language. 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com
 
 *   [cliouo/FreeGPT35-Vercel](https://github.com/cliouo/FreeGPT35-Vercel) - Utilize the unlimited free ChatGPT3.5-Turbo API service provided by the login-free ChatGPT Web. Supporting Vercel Deployments.
 
