@@ -684,7 +684,7 @@
 
 *   [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - CloudFlare 图床/文件床，基于 CloudFlare Pages 的免费图片/文件托管解决方案，支持 Telegram Bot 和 Cloudflare R2 等多种存储方式！
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案，支持 Telegram Bot 、R2、S3 等多种存储方式！
 
 *   [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
 
@@ -1430,7 +1430,7 @@
 
 *   [FofaInfo/Awesome-FOFA](https://github.com/FofaInfo/Awesome-FOFA) - The FOFA Library collects usage tips, common scenarios, F\&Q, and more for FOFA.
 
-*   [afosne/DNS-Unlock](https://github.com/afosne/DNS-Unlock) - 加速网络解析速度，解锁Netflix、hulu、disney等网页
+*   [afosne/DNS-UNLOCK](https://github.com/afosne/DNS-UNLOCK) - 加速网络解析速度，解锁Netflix、hulu、disney等网页
 
 *   [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者出海工具收集站（Awesome Independent developer sea tool collection station）
 
@@ -1690,7 +1690,7 @@
 
 *   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 
-*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.
+*   [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 
 *   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 
