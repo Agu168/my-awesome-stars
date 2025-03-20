@@ -62,6 +62,8 @@
 
 ## Python
 
+*   [langmanus/langmanus](https://github.com/langmanus/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, crawling, and Python code execution, while giving back to the community that made this possible.
+
 *   [ckreiling/mcp-server-docker](https://github.com/ckreiling/mcp-server-docker) - MCP server for Docker
 
 *   [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
@@ -650,9 +652,9 @@
 
 *   [bbfamily/abu](https://github.com/bbfamily/abu) - 阿布量化交易系统(股票，期权，期货，比特币，机器学习) 基于python的开源量化交易，量化投资架构
 
-*   [benitoro/stockholm](https://github.com/benitoro/stockholm) - 一个股票数据（沪深）爬虫和选股策略测试框架
-
 ## TypeScript
+
+*   [langmanus/langmanus-web](https://github.com/langmanus/langmanus-web) - The web UI for LangManus.
 
 *   [google-gemini/gemini-image-editing-nextjs-quickstart](https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart) - Get started with native image generation and editing using Gemini 2.0 and Next.js
 
@@ -1030,7 +1032,7 @@
 
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
-*   [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+*   [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
 
 *   [sailist/chatgpt-enhancement-extension](https://github.com/sailist/chatgpt-enhancement-extension) - An all-in-one plugin to improve your ChatGPT experience!
 
@@ -1551,8 +1553,6 @@
 *   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 
 *   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-
-*   [KOHGYLW/kiftd](https://github.com/KOHGYLW/kiftd) - sky driver & cloud driver open source server application : kiftd . welcome to the home page: https://kohgylw.github.io/ to quick start——kiftd是一款专门面向个人、团队和小型组织的私有网盘系统。轻量、开源、完善。无论是在家庭、学校还是在办公室，您都能立刻开始使用它！了解更多请访问官方网站：
 
 ## C
 
