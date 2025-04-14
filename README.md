@@ -82,7 +82,7 @@
 
 *   [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
 
-*   [u14app/deep-research](https://github.com/u14app/deep-research) - Deep Research with Google Gemini Models
+*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
 
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
@@ -1224,7 +1224,7 @@
 
 *   [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
 
-*   [zombieyang/sd-ppp](https://github.com/zombieyang/sd-ppp) - Communicate between Photoshop and ComfyUI
+*   [zombieyang/sd-ppp](https://github.com/zombieyang/sd-ppp) - Simplify ComfyUI and Connect with Photoshop
 
 *   [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work.
 
