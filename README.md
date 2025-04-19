@@ -346,7 +346,7 @@
 
 *   [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 
-*   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 最强轻量级导航网站 Discover Navigation, the Strongest Lightweight Navigation Website
+*   [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
 
 *   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
 
