@@ -66,7 +66,7 @@
 
 *   [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) - An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
 
-*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Zenfeed is a highly customizable intelligent information assistant that utilizes AI to collect, process (e.g., summarize, filter, search), and distribute personalized content from trusted data sources like RSS, aiming to help users efficiently manage information streams and reduce information anxiety.
+*   [glidea/zenfeed](https://github.com/glidea/zenfeed) - Make RSS 📰 great again with AI 🧠✨!!
 
 *   [xausky/mail-push](https://github.com/xausky/mail-push) -
 
