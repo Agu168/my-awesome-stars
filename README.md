@@ -62,7 +62,9 @@
 
 ## Python
 
-*   [24mlight/a\_share\_mcp\_is\_just\_I\_need](https://github.com/24mlight/a_share_mcp_is_just_I_need) -
+*   [elsejj/mcp-cn-a-stock](https://github.com/elsejj/mcp-cn-a-stock) - 这是一个为大模型提供 A 股数据的的 MCP(Model Content Protocol) 服务。
+
+*   [24mlight/a-share-mcp-is-just-i-need](https://github.com/24mlight/a-share-mcp-is-just-i-need) -
 
 *   [Melelery/c-binance-futures-quant](https://github.com/Melelery/c-binance-futures-quant) - low-cost, high-efficiency, easy-to-implement
 
@@ -1297,8 +1299,6 @@
 *   [SunshowerC/fund-strategy](https://github.com/SunshowerC/fund-strategy) - 基金投资策略分析，基金回测工具
 
 *   [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
-
-*   [Qsnh/meedu](https://github.com/Qsnh/meedu) - Meedu是一款功能强大的开源在线教育系统，适用于个人、企业或机构搭建自己的在线学习平台。它提供了完整的解决方案，满足网校搭建、在线教学、企业培训和知识付费等多种需求。
 
 ## Rust
 
