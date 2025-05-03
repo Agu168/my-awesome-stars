@@ -62,6 +62,10 @@
 
 ## Python
 
+*   [zwldarren/akshare-one-mcp](https://github.com/zwldarren/akshare-one-mcp) - MCP server that provides access to Chinese stock market data using akshare-one
+
+*   [ttjslbz001/akshare\_mcp\_server](https://github.com/ttjslbz001/akshare_mcp_server) -
+
 *   [elsejj/mcp-cn-a-stock](https://github.com/elsejj/mcp-cn-a-stock) - 这是一个为大模型提供 A 股数据的的 MCP(Model Content Protocol) 服务。
 
 *   [24mlight/a-share-mcp-is-just-i-need](https://github.com/24mlight/a-share-mcp-is-just-i-need) -
@@ -637,8 +641,6 @@
 *   [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 *   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 
 ## miscellaneous
 
@@ -1297,8 +1299,6 @@
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
 *   [SunshowerC/fund-strategy](https://github.com/SunshowerC/fund-strategy) - 基金投资策略分析，基金回测工具
-
-*   [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
 
 ## Rust
 
@@ -2144,7 +2144,7 @@
 
 *   [fscarmen/tools](https://github.com/fscarmen/tools) -
 
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本。VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
 
 *   [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 
