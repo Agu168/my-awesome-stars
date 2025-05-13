@@ -102,6 +102,8 @@
 
 *   [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
 
+*   [zombieyang/sd-ppp](https://github.com/zombieyang/sd-ppp) - Simplify ComfyUI and Connect with Photoshop
+
 *   [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work.
 
 *   [0-RTT/JSimages](https://github.com/0-RTT/JSimages) - 基于 Cloudflare R2 储存的图床/视频床服务
@@ -604,7 +606,7 @@
 
 *   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持RTMP推流；支持IPv4/IPv6；支持自定义频道与EPG；支持多种源获取方式；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
 
 *   [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 
@@ -1366,8 +1368,6 @@
 
 *   [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 
-*   [zombieyang/sd-ppp](https://github.com/zombieyang/sd-ppp) - Simplify ComfyUI and Connect with Photoshop
-
 *   [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
 
 *   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
@@ -1546,7 +1546,7 @@
 
 *   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 
-*   [sheepzh/timer](https://github.com/sheepzh/timer) - Time Tracker/网费很贵, to be the best time tracker for browsers
+*   [sheepzh/timer](https://github.com/sheepzh/timer) - Time Tracker/网费很贵, to be the best time tracker for browser
 
 *   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 
