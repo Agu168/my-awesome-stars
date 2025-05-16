@@ -1388,7 +1388,7 @@
 
 *   [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
 
-*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 
 *   [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 
@@ -1828,7 +1828,7 @@
 
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 
-*   [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) -  TEN is an open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.
+*   [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework and platform for building real-time, multimodal, low-latency conversational voice AI agents. It features a workflow builder and supports C, C++, Go, Python, JavaScript, and TypeScript. TEN also offers ready-to-use extensions for integration with platforms like Dify and Coze.
 
 *   [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 
