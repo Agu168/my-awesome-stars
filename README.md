@@ -378,7 +378,7 @@
 
 *   [ZHO-ZHO-ZHO/ComfyUI-UltraEdit-ZHO](https://github.com/ZHO-ZHO-ZHO/ComfyUI-UltraEdit-ZHO) - ComfyUI UltraEdit（Diffusers）
 
-*   [shadowcz007/comfyui-liveportrait](https://github.com/shadowcz007/comfyui-liveportrait) - LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control
+*   [MixLabPro/comfyui-liveportrait](https://github.com/MixLabPro/comfyui-liveportrait) - LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control
 
 *   [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life!
 
