@@ -1182,7 +1182,7 @@
 
 *   [sorry510/go\_binance\_futures](https://github.com/sorry510/go_binance_futures) - Crypto trading bot (合约量化交易+自定义策略+新币抢购+价格预警通知)
 
-*   [krillinai/KrillinAI](https://github.com/krillinai/KrillinAI) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+*   [krillinai/KlicStudio](https://github.com/krillinai/KlicStudio) -  A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts.  基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 
 *   [TBXark/mcp-proxy](https://github.com/TBXark/mcp-proxy) - An MCP proxy server that aggregates and serves multiple MCP resource servers through a single HTTP server.
 
@@ -1604,7 +1604,7 @@
 
 ## miscellaneous
 
-*   [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium) - A fingerprint browser based on Ungoogled Chromium. 指纹浏览器
+*   [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium) - A fingerprint browser based on Ungoogled Chromium. 一个指纹浏览器
 
 *   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 
