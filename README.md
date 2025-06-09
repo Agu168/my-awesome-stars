@@ -1964,7 +1964,7 @@
 
 *   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 
-*   [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents.
+*   [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for all AI agents.
 
 *   [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 
