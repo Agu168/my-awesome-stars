@@ -634,7 +634,7 @@
 
 *   [hangwin/mcp-chrome](https://github.com/hangwin/mcp-chrome) - Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.
 
-*   [Feather-2/SnapFit-AI](https://github.com/Feather-2/SnapFit-AI) - SnapFit AI：开箱即用， 您的专属 AI 教练和营养师。即刻获取个性化健康管理指导。 Your personal AI trainer and nutritionist. Get instant, personalized health management guidance, right out of the box.
+*   [Feather-2/Snapifit-AI](https://github.com/Feather-2/Snapifit-AI) - Snapifit AI：开箱即用， 您的专属 AI 教练和营养师。即刻获取个性化健康管理指导。 Your personal AI trainer and nutritionist. Get instant, personalized health management guidance, right out of the box.
 
 *   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
 
