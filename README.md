@@ -22,6 +22,8 @@
 
 ## Table of Contents
 
+*   [C++](#c)
+*   [Roff](#roff)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [HTML](#html)
@@ -31,8 +33,7 @@
 *   [Shell](#shell)
 *   [Go](#go)
 *   [Rust](#rust)
-*   [C](#c)
-*   [C++](#c-1)
+*   [C](#c-1)
 *   [Swift](#swift)
 *   [Vue](#vue)
 *   [PHP](#php)
@@ -59,6 +60,48 @@
 *   [SCSS](#scss)
 *   [Lua](#lua)
 *   [Thanks](#thanks)
+
+## C++
+
+*   [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop\_computer: :camera\_flash:
+
+*   [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
+
+*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
+
+*   [cryptoli/lite-telegram-image-bot](https://github.com/cryptoli/lite-telegram-image-bot) - 基于telegram的轻量级图床机器人
+
+*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+
+*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
+
+*   [kungfu-origin/kungfu](https://github.com/kungfu-origin/kungfu) - Kungfu Trader
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+
+*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+
+*   [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+
+*   [wondertrader/wondertrader](https://github.com/wondertrader/wondertrader) - WonderTrader——量化研发交易一站式框架
+
+*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
+*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+
+*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
+
+*   [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
+
+## Roff
+
+*   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Python
 
@@ -440,7 +483,7 @@
 
 *   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 
-*   [shenweiyan/Digital-Garden](https://github.com/shenweiyan/Digital-Garden) - All in Discussions 的个人数字花园，没事写写文章，喜欢的话请点 Star，想订阅点 Watch。知识管理就像一个花园，需要精心培育和持续维护才能繁荣。
+*   [shenweiyan/Digital-Garden](https://github.com/shenweiyan/Digital-Garden) - 知识管理就像一个花园，需要精心培育和持续维护才能繁荣。All in Discussions 的个人数字花园，没事写写文章，喜欢的话请点 Star，想订阅点 Watch。
 
 *   [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) - Gmeek is a Blog All in Github
 
@@ -540,7 +583,7 @@
 
 *   [SkywalkerDarren/chatWeb](https://github.com/SkywalkerDarren/chatWeb) - ChatWeb can crawl web pages, read PDF, DOCX, TXT, and extract the main content, then answer your questions based on the content, or summarize the key points.
 
-*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models with support for multiple inference backends.
+*   [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
 
 *   [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 
@@ -1234,7 +1277,7 @@
 
 *   [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 
-*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
+*   [MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed) - Open-source file hosting solution based on CloudFlare Pages (Image hosting/File storage/Cloud drive) / 基于 CloudFlare Pages 的开源文件托管解决方案（图床/文件床/网盘）
 
 *   [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) -
 
@@ -1922,7 +1965,7 @@
 
 *   [indes/flowerss-bot](https://github.com/indes/flowerss-bot) - A telegram bot  for rss reader. 一个支持应用内阅读的 Telegram RSS Bot。
 
-*   [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 
 ## Rust
 
@@ -1975,42 +2018,6 @@
 *   [shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev) - Bug-fix-only libev port of shadowsocks. Future development moved to shadowsocks-rust
 
 *   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-
-## C++
-
-*   [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
-
-*   [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-*   [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-
-*   [cryptoli/lite-telegram-image-bot](https://github.com/cryptoli/lite-telegram-image-bot) - 基于telegram的轻量级图床机器人
-
-*   [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-*   [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
-
-*   [kungfu-origin/kungfu](https://github.com/kungfu-origin/kungfu) - Kungfu Trader
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-
-*   [Const-me/Whisper](https://github.com/Const-me/Whisper) - High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-
-*   [Atmosphere-NX/Atmosphere](https://github.com/Atmosphere-NX/Atmosphere) - Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-
-*   [wondertrader/wondertrader](https://github.com/wondertrader/wondertrader) - WonderTrader——量化研发交易一站式框架
-
-*   [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
-
-*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-*   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
-
-*   [bupticybee/TexasSolver](https://github.com/bupticybee/TexasSolver) - 🚀 A very efficient Texas Holdem GTO solver :spades::hearts::clubs::diamonds:
 
 ## Swift
 
@@ -2118,8 +2125,6 @@
 
 *   [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 
-*   [owen0o0/WebStack](https://github.com/owen0o0/WebStack) - WordPress 版 WebStack 导航主题 https://nav.iowen.cn
-
 ## Kotlin
 
 *   [equationl/WxStepLog](https://github.com/equationl/WxStepLog) - 自动化记录微信好友的运动步数
@@ -2217,8 +2222,6 @@
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
 *   [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
-
-*   [88250/solo](https://github.com/88250/solo) - 🎸 B3log 分布式社区的 Java 博客端节点系统，欢迎加入下一代社区网络。B3log distributed community blog-end node based on Java, welcome to join the next generation community network.
 
 ## Ruby
 
