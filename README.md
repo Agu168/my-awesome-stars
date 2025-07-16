@@ -62,6 +62,8 @@
 
 ## TypeScript
 
+*   [senshinya/MoonTV](https://github.com/senshinya/MoonTV) - 一个开箱即用的、跨平台的影视聚合播放站
+
 *   [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) - A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you
 
 *   [nerding-io/n8n-nodes-mcp](https://github.com/nerding-io/n8n-nodes-mcp) - n8n custom node for MCP
@@ -892,7 +894,7 @@
 
 *   [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI. \[⚠️ DEVIKA DOES NOT HAVE AN OFFICIAL WEBSITE ⚠️]
 
-*   [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+*   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 
 *   [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 
@@ -1563,8 +1565,6 @@
 *   [ravgeetdhillon/notion-feeder](https://github.com/ravgeetdhillon/notion-feeder) - 🕸 A Node app for creating a Feed Reader in Notion.
 
 *   [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
-
-*   [liyupi/code-nav](https://github.com/liyupi/code-nav) - 💎 程序员一站式编程学习交流社区，免费的编程学习路线、入门教程、原创项目教程、程序员bug修复手册、保姆级写简历技巧，帮你学好编程、做出项目、拿到满意的 Offer！☁️ 本项目前后端均开源，励志成为最好的全栈云开发项目！
 
 ## C++
 
