@@ -1922,7 +1922,7 @@
 
 *   [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
 
-*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+*   [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
 
 *   [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 
@@ -1939,6 +1939,8 @@
 *   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
 
 *   [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
+
+*   [YanWenKun/ComfyUI-Docker](https://github.com/YanWenKun/ComfyUI-Docker) - 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
 
 *   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 
@@ -2197,8 +2199,6 @@
 ## Dockerfile
 
 *   [wy580477/musicn-container](https://github.com/wy580477/musicn-container) - 播放及下载音乐工具 musicn 容器
-
-*   [YanWenKun/ComfyUI-Docker](https://github.com/YanWenKun/ComfyUI-Docker) - 🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本
 
 *   [nVentiveUX/docker-ttrss](https://github.com/nVentiveUX/docker-ttrss) - A multiarch docker image for Tiny Tiny RSS feed reader
 
