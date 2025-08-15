@@ -360,7 +360,7 @@
 
 *   [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 
-*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - 🔥 Open-source no code web data extraction platform. Instantly turn any website into API or spreadsheet 🔥
+*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet.
 
 *   [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 
