@@ -22,12 +22,12 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [Vue](#vue)
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [C#](#c)
@@ -60,6 +60,76 @@
 *   [SCSS](#scss)
 *   [Lua](#lua)
 *   [Thanks](#thanks)
+
+## Vue
+
+*   [timwenx/SimpleAccount](https://github.com/timwenx/SimpleAccount) - 简帐是一款专注于隐私安全的本地记账应用，采用uni-app框架开发，支持多端运行。无需联网，所有数据本地存储，让您的财务信息更安全。 记账管理、分类统计、可视化图表、数据导入导出、自定义分类等功能一应俱全，让记账变得简单高效。 适合注重隐私安全、追求简洁体验的个人用户，无论是学生、上班族还是家庭主妇，都能轻松上手管理个人财务。
+
+*   [honwhy/md](https://github.com/honwhy/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+
+*   [liu-ziting/xhs-parser](https://github.com/liu-ziting/xhs-parser) - 多平台无水印图片/视频解析下载工具 ，支持小红书、抖音、皮皮虾三大平台，一键获取高清无水印图片和视频，界面美观，体验流畅
+
+*   [LYX9527/what-happen](https://github.com/LYX9527/what-happen) - 一个简约无广，专注新闻的聚合体，完美适配Web端，手机端，《今日时事》为您实时聚合各大平台最新资讯，按时间序列 展示热点新闻动态，包含头条、百度、知乎、哔哩哔哩、豆瓣、微博、贴吧、汽车之家、虎扑、Github、抖音、懂车帝等各种消息，给您提供极致的专注阅读的信息流体验！
+
+*   [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
+
+*   [AnotiaWang/siliconcloud-stats](https://github.com/AnotiaWang/siliconcloud-stats) - 更详细的 SiliconCloud 统计分析
+
+*   [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
+
+*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
+
+*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
+
+*   [october-coder/api-check](https://github.com/october-coder/api-check) - Pure Front-End API Testing Tool
+
+*   [chaitin/xray](https://github.com/chaitin/xray) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
+
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
+
+*   [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare
+
+*   [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN/Real-CUGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
+
+*   [yangjian102621/geekai](https://github.com/yangjian102621/geekai) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
+
+*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
+
+*   [ljxi/Cloudflare-R2-oss](https://github.com/ljxi/Cloudflare-R2-oss) - 利用Cloudflare R2 + Workers搭建在线网盘
+
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
+
+*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+
+*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
+
+*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
+
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
+
+*   [xinyao27/firefly](https://github.com/xinyao27/firefly) - An open-source lightweight OpenAI powered memo hub.
+
+*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+
+*   [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
+
+*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+
+*   [WongSaang/chatgpt-ui](https://github.com/WongSaang/chatgpt-ui) - A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts.
+
+*   [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
+
+*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
+
+*   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+
+*   [OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around) - 自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## TypeScript
 
@@ -609,8 +679,6 @@
 
 *   [geekape/geek-navigation](https://github.com/geekape/geek-navigation) - ❤️ 极客猿导航－独立开发者的导航站！
 
-*   [Saul-Mirone/homura](https://github.com/Saul-Mirone/homura) - Homura RSS Reader
-
 ## Python
 
 *   [2024baibai/crypto\_invest\_with\_ai](https://github.com/2024baibai/crypto_invest_with_ai) -
@@ -825,7 +893,7 @@
 
 *   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - \[Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 
-*   [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
+*   [groq/g1](https://github.com/groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 
 *   [V-know/ChatGPT-Telegram-Bot](https://github.com/V-know/ChatGPT-Telegram-Bot) - A Telegram bot with a silky smooth AI experience. UI enabled.
 
@@ -1703,7 +1771,7 @@
 
 *   [ZHO-ZHO-ZHO/ZHO-nano-banana-Creation](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation) - 我的 nano-banana 创意玩法大合集！  持续更新中！
 
-*   [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) -
+*   [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana🍌, Gemini-2.5-flash-image based model. This repository showcases diverse AI-generated visuals and prompts, highlighting the playful possibilities of Nano Banana.
 
 *   [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech
 
@@ -1896,74 +1964,6 @@
 *   [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - \[已停止服务] 给微信公众号生成 RSS 订阅源
 
 *   [Colin-XKL/RSSmanX](https://github.com/Colin-XKL/RSSmanX) - RSSman X 一套综合RSS解决方案
-
-## Vue
-
-*   [honwhy/md](https://github.com/honwhy/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-
-*   [liu-ziting/xhs-parser](https://github.com/liu-ziting/xhs-parser) - 多平台无水印图片/视频解析下载工具 ，支持小红书、抖音、皮皮虾三大平台，一键获取高清无水印图片和视频，界面美观，体验流畅
-
-*   [LYX9527/what-happen](https://github.com/LYX9527/what-happen) - 一个简约无广，专注新闻的聚合体，完美适配Web端，手机端，《今日时事》为您实时聚合各大平台最新资讯，按时间序列 展示热点新闻动态，包含头条、百度、知乎、哔哩哔哩、豆瓣、微博、贴吧、汽车之家、虎扑、Github、抖音、懂车帝等各种消息，给您提供极致的专注阅读的信息流体验！
-
-*   [manuelernestog/weektodo](https://github.com/manuelernestog/weektodo) - WeekToDo is a Free and Open Source Minimalist Weekly Planner and To Do list App focused on privacy.  Available for Windows, Mac, Linux or online.
-
-*   [AnotiaWang/siliconcloud-stats](https://github.com/AnotiaWang/siliconcloud-stats) - 更详细的 SiliconCloud 统计分析
-
-*   [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.
-
-*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
-
-*   [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) - 一个在线的微信公众号文章批量下载工具，支持下载阅读量与评论数据，支持私有化部署，通过浏览器进行使用，无需进行安装
-
-*   [october-coder/api-check](https://github.com/october-coder/api-check) - Pure Front-End API Testing Tool
-
-*   [chaitin/xray](https://github.com/chaitin/xray) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
-
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
-
-*   [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare
-
-*   [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN/Real-CUGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
-
-*   [yangjian102621/geekai](https://github.com/yangjian102621/geekai) - AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。
-
-*   [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
-
-*   [ljxi/Cloudflare-R2-oss](https://github.com/ljxi/Cloudflare-R2-oss) - 利用Cloudflare R2 + Workers搭建在线网盘
-
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-
-*   [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-
-*   [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-
-*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
-
-*   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
-
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
-
-*   [xinyao27/firefly](https://github.com/xinyao27/firefly) - An open-source lightweight OpenAI powered memo hub.
-
-*   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-
-*   [swuecho/chat](https://github.com/swuecho/chat) - chat web app for teams, sass with user management and ratelimit, support chatgpt(openai & azure), claude, gemini and ollama model
-
-*   [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
-
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-
-*   [WongSaang/chatgpt-ui](https://github.com/WongSaang/chatgpt-ui) - A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts.
-
-*   [chatpire/chatgpt-web-share](https://github.com/chatpire/chatgpt-web-share) - ChatGPT Plus 共享方案。ChatGPT Plus / OpenAI API sharing solution.
-
-*   [CareyWang/sub-web](https://github.com/CareyWang/sub-web) -
-
-*   [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-
-*   [OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around) - 自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 ## PHP
 
@@ -2179,7 +2179,7 @@
 
 *   [criwits/missing-web](https://github.com/criwits/missing-web) - 你缺失的那门计算机课（网页版）| Your Missing Semester of Using Computer (Web Version)
 
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
 
 *   [comfyanonymous/ComfyUI\_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
 
