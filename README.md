@@ -22,9 +22,9 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [HCL](#hcl)
 *   [HTML](#html)
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -62,87 +62,9 @@
 *   [Lua](#lua)
 *   [Thanks](#thanks)
 
-## HCL
-
-*   [datawranglerai/self-host-n8n-on-gcr](https://github.com/datawranglerai/self-host-n8n-on-gcr) - Self-host n8n on Google Cloud without the subscription fees or server headaches - because your automation workflows shouldn't cost more than your coffee budget
-
-## HTML
-
-*   [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
-
-*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-
-*   [tgnav/tgnav.github.io](https://github.com/tgnav/tgnav.github.io) - TGNAV - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。
-
-*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
-
-*   [LargeCupPanda/StockAnal\_Sys](https://github.com/LargeCupPanda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
-
-*   [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena) - LLM Arena by KCORES team
-
-*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
-
-*   [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
-
-*   [twikoojs/twikoo-netlify](https://github.com/twikoojs/twikoo-netlify) - Deploy twikoo to Netlify
-
-*   [fpmon/fingerprinting-monitor](https://github.com/fpmon/fingerprinting-monitor) - A fingerprinting monitor for Chrome.
-
-*   [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
-
-*   [criwits/missing-web](https://github.com/criwits/missing-web) - 你缺失的那门计算机课（网页版）| Your Missing Semester of Using Computer (Web Version)
-
-*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
-
-*   [comfyanonymous/ComfyUI\_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
-
-*   [SoftMeng/comfy-flow-api](https://github.com/SoftMeng/comfy-flow-api) - 对ComfyUI的API进行的一层封装，并提供了微信小程序授权的API
-
-*   [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
-
-*   [HCPLab-SYSU/Book-of-MLM](https://github.com/HCPLab-SYSU/Book-of-MLM) - 《多模态大模型：新一代人工智能技术范式》作者：刘阳，林倞
-
-*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-
-*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
-
-*   [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
-
-*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
-
-*   [zgjx6/SocialEngineeringDictionaryGenerator](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator) - 社会工程学密码生成器，是一个利用个人信息生成密码的工具
-
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
-
-*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
-
-*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
-
-*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
-
-*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-
-*   [openbiox/weekly](https://github.com/openbiox/weekly) - 生信爱好者周刊（每周日发布）
-
-*   [crazypeace/Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) - 使用秘密路径访问操作页面. 支持自定义短链. API 不公开服务. 页面缓存设置过的短链. 长链接文本框预搜索localStorage. 增加删除某条短链的按钮. 增加读取KV的按钮. 支持QRcode二维码. 变身网络记事本 Pastebin. 变身图床 Image Hosting. 变身网络日记本. A URL Shortener created using Cloudflare worker and KV
-
-*   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
-
-*   [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
-
-*   [Oreomeow/freenom-py](https://github.com/Oreomeow/freenom-py) - Freenom 域名自动续约 python 项目
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
-
-*   [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
-
-*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
-
-*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-
 ## JavaScript
+
+*   [icheer/edgetts-cloudflare-workers-webui](https://github.com/icheer/edgetts-cloudflare-workers-webui) - 这是一个部署在 Cloudflare Workers 上的高性能文本转语音（TTS）代理服务。它巧妙地将微软 Edge 强大且自然的语音合成服务，封装成了一个兼容 OpenAI API 格式的接口。这使得开发者可以无缝地将各种现有应用对接到这个免费、高质量的 TTS 服务上。
 
 *   [DhruvParikh1/markdownload-extension-updated](https://github.com/DhruvParikh1/markdownload-extension-updated) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 
@@ -324,7 +246,7 @@
 
 *   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 
-*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【开源书籍】深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue
+*   [isno/theByteBook](https://github.com/isno/theByteBook) - ⭐ 【出版书籍】京东购买链接 https://item.jd.com/10183653901041.html  深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。
 
 *   [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 
@@ -417,6 +339,86 @@
 *   [wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync) - 一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力
 
 *   [ravgeetdhillon/notion-feeder](https://github.com/ravgeetdhillon/notion-feeder) - 🕸 A Node app for creating a Feed Reader in Notion.
+
+## HCL
+
+*   [datawranglerai/self-host-n8n-on-gcr](https://github.com/datawranglerai/self-host-n8n-on-gcr) - Self-host n8n on Google Cloud without the subscription fees or server headaches - because your automation workflows shouldn't cost more than your coffee budget
+
+## HTML
+
+*   [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
+
+*   [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
+
+*   [tgnav/tgnav.github.io](https://github.com/tgnav/tgnav.github.io) - TGNAV - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。
+
+*   [kfcx/HFSpaceDeploy](https://github.com/kfcx/HFSpaceDeploy) - 将你的项目一键部署到huggingface spaces
+
+*   [LargeCupPanda/StockAnal\_Sys](https://github.com/LargeCupPanda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
+
+*   [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena) - LLM Arena by KCORES team
+
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
+
+*   [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) -  A fast, clean, responsive Hugo theme.
+
+*   [twikoojs/twikoo-netlify](https://github.com/twikoojs/twikoo-netlify) - Deploy twikoo to Netlify
+
+*   [fpmon/fingerprinting-monitor](https://github.com/fpmon/fingerprinting-monitor) - A fingerprinting monitor for Chrome.
+
+*   [lucasmrdt/TheBigPromptLibrary](https://github.com/lucasmrdt/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
+
+*   [criwits/missing-web](https://github.com/criwits/missing-web) - 你缺失的那门计算机课（网页版）| Your Missing Semester of Using Computer (Web Version)
+
+*   [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP)
+
+*   [comfyanonymous/ComfyUI\_examples](https://github.com/comfyanonymous/ComfyUI_examples) - Examples of ComfyUI workflows
+
+*   [SoftMeng/comfy-flow-api](https://github.com/SoftMeng/comfy-flow-api) - 对ComfyUI的API进行的一层封装，并提供了微信小程序授权的API
+
+*   [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
+
+*   [HCPLab-SYSU/Book-of-MLM](https://github.com/HCPLab-SYSU/Book-of-MLM) - 《多模态大模型：新一代人工智能技术范式》作者：刘阳，林倞
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+
+*   [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
+
+*   [songquanpeng/go-file](https://github.com/songquanpeng/go-file) - 基于 Go 的文件分享工具，仅单可执行文件，开箱即用，内置图床和视频播放页面. File sharing tool based on Go.
+
+*   [zgjx6/SocialEngineeringDictionaryGenerator](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator) - 社会工程学密码生成器，是一个利用个人信息生成密码的工具
+
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+
+*   [cf-pages/Telegraph-Image](https://github.com/cf-pages/Telegraph-Image) - Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.
+
+*   [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
+
+*   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
+
+*   [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+
+*   [openbiox/weekly](https://github.com/openbiox/weekly) - 生信爱好者周刊（每周日发布）
+
+*   [crazypeace/Url-Shorten-Worker](https://github.com/crazypeace/Url-Shorten-Worker) - 使用秘密路径访问操作页面. 支持自定义短链. API 不公开服务. 页面缓存设置过的短链. 长链接文本框预搜索localStorage. 增加删除某条短链的按钮. 增加读取KV的按钮. 支持QRcode二维码. 变身网络记事本 Pastebin. 变身图床 Image Hosting. 变身网络日记本. A URL Shortener created using Cloudflare worker and KV
+
+*   [LouisShark/chatgpt\_system\_prompt](https://github.com/LouisShark/chatgpt_system_prompt) - A collection of GPT system prompts and various prompt injection/leaking knowledge.
+
+*   [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
+
+*   [Oreomeow/freenom-py](https://github.com/Oreomeow/freenom-py) - Freenom 域名自动续约 python 项目
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
+
+*   [RichardLitt/knowledge](https://github.com/RichardLitt/knowledge) - 💡 document everything
+
+*   [PKM-er/Blue-topaz-example](https://github.com/PKM-er/Blue-topaz-example) - Blue topaz  themes example vault for Obsidian
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 
 ## miscellaneous
 
@@ -1678,7 +1680,7 @@
 
 *   [logancyang/obsidian-copilot](https://github.com/logancyang/obsidian-copilot) - THE Copilot in Obsidian
 
-*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform. Instantly turn any website into API or spreadsheet. ⚡
+*   [getmaxun/maxun](https://github.com/getmaxun/maxun) - ⚡ Easiest no code web data extraction platform • Instantly turn any website into API or spreadsheet ⚡
 
 *   [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers .
 
@@ -2165,8 +2167,6 @@
 *   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
 
 *   [pchang78/notion-content-old](https://github.com/pchang78/notion-content-old) - Wordpress Plugin for displaying content from Notion
-
-*   [ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme) - CorePress 主题，一款高性能，高颜值的WordPress主题
 
 ## Kotlin
 
