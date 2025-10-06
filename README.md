@@ -42,8 +42,8 @@
 *   [C](#c-2)
 *   [Roff](#roff)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Swift](#swift)
 *   [Svelte](#svelte)
+*   [Swift](#swift)
 *   [Astro](#astro)
 *   [Dockerfile](#dockerfile)
 *   [Ruby](#ruby)
@@ -1419,7 +1419,7 @@
 
 *   [afosne/DNS-UNLOCK](https://github.com/afosne/DNS-UNLOCK) - 加速网络解析速度，解锁Netflix、hulu、disney等网页
 
-*   [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者精选工具站（Awesome Independent developer  tools）
+*   [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者精选工具站（Awesome Indie Dev Tools​）
 
 *   [ProfSynapse/Professor-Synapse](https://github.com/ProfSynapse/Professor-Synapse) -
 
@@ -1987,8 +1987,6 @@
 
 *   [Yuri-NagaSaki/ImageFlow](https://github.com/Yuri-NagaSaki/ImageFlow) - Modern Image Service System
 
-*   [xausky/mail-push](https://github.com/xausky/mail-push) -
-
 *   [banbox/banbot](https://github.com/banbox/banbot) - a high-performance, easy-to-use, multi-symbol, multi-strategy, multi-period, multi-account event-driven trading bot
 
 *   [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
@@ -2519,7 +2517,7 @@
 
 *   [PKM-er/Obsidian-Plug-and-Play](https://github.com/PKM-er/Obsidian-Plug-and-Play) - 一个简单的Obsidian 即开即用库，希望它能节省你调试的时间，更多关注笔记和知识本身。A simple Obsidian plug and play vault.Hopefully it will save you time debugging and pay more attention to the notes and knowledge itself.
 
-*   [tw93/Weekly](https://github.com/tw93/Weekly) - 🩴 潮流技术周刊，记录我的不枯燥生活，每周一早发布~
+*   [tw93/Weekly](https://github.com/tw93/Weekly) - 🩴 Trendy Weekly Weekly records my non-boring life. 潮流周刊记录我的不枯燥生活
 
 *   [Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage) - A dashboard for your obsidian vault.
 
@@ -2613,6 +2611,14 @@
 
 *   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
+## Svelte
+
+*   [xausky/mail-push](https://github.com/xausky/mail-push) -
+
+*   [Mainstayz/fates-app](https://github.com/Mainstayz/fates-app) - A modern personal time management and task tracking application
+
+*   [YeungKC/Hakuba](https://github.com/YeungKC/Hakuba) - A fast blog starter that reads data off GitHub Discussions.
+
 ## Swift
 
 *   [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
@@ -2620,12 +2626,6 @@
 *   [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
 
 *   [mudkipme/MoeMemos](https://github.com/mudkipme/MoeMemos) - An app to help you capture thoughts and ideas
-
-## Svelte
-
-*   [Mainstayz/fates-app](https://github.com/Mainstayz/fates-app) - A modern personal time management and task tracking application
-
-*   [YeungKC/Hakuba](https://github.com/YeungKC/Hakuba) - A fast blog starter that reads data off GitHub Discussions.
 
 ## Astro
 
