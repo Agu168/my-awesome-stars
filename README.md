@@ -175,7 +175,7 @@
 
 *   [Snapifit-AI/Snapifit-AI](https://github.com/Snapifit-AI/Snapifit-AI) - Snapifit AI：开箱即用， 您的专属 AI 教练和营养师。即刻获取个性化健康管理指导。 Your personal AI trainer and nutritionist. Get instant, personalized health management guidance, right out of the box.
 
-*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  A powerful Telegram chat search tool with vector search and semantic matching capabilities.
+*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
 
 *   [voideditor/void](https://github.com/voideditor/void) -
 
