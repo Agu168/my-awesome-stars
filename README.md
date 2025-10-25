@@ -280,7 +280,7 @@
 
 *   [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
 
-*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV电视直播源更新项目『✨秒播级体验🚀』：支持自定义频道与EPG；支持多种源获取方式；支持RTMP推流；支持IPv4/IPv6；支持获取归属地与运营商；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update project
+*   [Guovin/iptv-api](https://github.com/Guovin/iptv-api) - 📺IPTV直播源自动更新平台『✨全自动化采集、筛选、测速流程🚀』：每日更新两次，提供免费结果订阅，输入播放器即可观看；丰富的个性化配置；频道自定义；订阅源/组播源/酒店源/本地源；RTMP推流；IPv4/IPv6；接口测速验效；工作流、Docker、命令行、GUI多种部署方式 | IPTV live streaming source automatic update platform
 
 *   [python-telegram-bot/python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) - We have made you a wrapper you can't refuse
 
@@ -874,7 +874,7 @@
 
 *   [Snapifit-AI/Snapifit-AI](https://github.com/Snapifit-AI/Snapifit-AI) - Snapifit AI：开箱即用， 您的专属 AI 教练和营养师。即刻获取个性化健康管理指导。 Your personal AI trainer and nutritionist. Get instant, personalized health management guidance, right out of the box.
 
-*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Easily find and export your Telegram messages with powerful semantic search, supporting all languages and unsegmented sentences.
+*   [groupultra/telegram-search](https://github.com/groupultra/telegram-search) - 🔍  Search your telegram messages wisely | 明智地搜索您的 Telegram 聊天记录
 
 *   [voideditor/void](https://github.com/voideditor/void) -
 
