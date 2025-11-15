@@ -35,10 +35,10 @@
 *   [Vue](#vue)
 *   [HCL](#hcl)
 *   [Rust](#rust)
-*   [Shell](#shell)
 *   [PHP](#php)
 *   [Kotlin](#kotlin)
 *   [C#](#c-2)
+*   [Shell](#shell)
 *   [Java](#java)
 *   [CSS](#css)
 *   [Roff](#roff)
@@ -83,8 +83,6 @@
 
 *   [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 
-*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
-
 *   [chadyi/AITradeGame](https://github.com/chadyi/AITradeGame) -
 
 *   [LargeCupPanda/AITradingSimulator](https://github.com/LargeCupPanda/AITradingSimulator) - 基于大语言模型模拟的智能交易决策系统，支持自定义交易策略、实时市场数据、专业级绩效分析和实时交易大屏。
@@ -114,6 +112,8 @@
 *   [CassiopeiaCode/TenCyclesofFate](https://github.com/CassiopeiaCode/TenCyclesofFate) - 《浮生十梦》 是一款基于 Web 的沉浸式文字冒险游戏。玩家在游戏中扮演一个与命运博弈的角色，每天有十次机会进入不同的“梦境”（即生命轮回），体验由 AI 动态生成的、独一无二的人生故事。游戏的核心在于“知足”与“贪欲”之间的抉择：是见好就收，还是追求更高的回报但可能失去一切？
 
 *   [2024baibai/crypto\_invest\_with\_ai](https://github.com/2024baibai/crypto_invest_with_ai) - 基于OpenAI的加密货币投资助手
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
 *   [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 
@@ -329,7 +329,7 @@
 
 *   [allwefantasy/auto-coder](https://github.com/allwefantasy/auto-coder) -
 
-*   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway).
+*   [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. \[Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
 
 *   [build-with-groq/g1](https://github.com/build-with-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
 
@@ -494,8 +494,6 @@
 *   [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 
 *   [RockChinQ/free-one-api](https://github.com/RockChinQ/free-one-api) - LLM 逆向工程接口管理 | 通过标准 OpenAI API 访问 ChatGPT / gpt4free / Bard / Claude / HuggingChat / 通义千问 等 AI 的破解版 || ChatGPT reverse engineering API management | Access all reverse engineered LLM libs by standard OpenAI API format  || 免费 ChatGPT Free GPT LLM API | 逆向工程 转 OpenAI API | converts all llm libs to OpenAI API
-
-*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 *   [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. \[NeurIPS 2024]
 
@@ -1136,6 +1134,8 @@
 *   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
 *   [prinsss/twitter-web-exporter](https://github.com/prinsss/twitter-web-exporter) - Export tweets, bookmarks, lists and much more from Twitter(X) web app. (推文/书签/收藏/列表导出工具)
+
+*   [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 
 *   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
@@ -1897,6 +1897,8 @@
 
 *   [xuemian168/domain-scanner](https://github.com/xuemian168/domain-scanner) - 【域名扫描器】一个用Go语言编写的强大且灵活的域名注册可用性检查扫描工具 A powerful and flexible domain name availability checker written in Go. This domain scanner helps you find available domain based on various patterns and filters.
 
+*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
+
 *   [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
 *   [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
@@ -2347,92 +2349,6 @@
 
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
-## Shell
-
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-
-*   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
-
-*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
-
-*   [yuju520/YujuToolBox](https://github.com/yuju520/YujuToolBox) - 一个Shell脚本工具箱
-
-*   [discourse/discourse\_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
-
-*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
-
-*   [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
-
-*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
-
-*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
-
-*   [duyanghao/kubernetes-reading-notes](https://github.com/duyanghao/kubernetes-reading-notes) - Kubernetes源码阅读笔记，专注云原生、边缘计算、程序员综合素质以及自我修养
-
-*   [hurlenko/filebrowser-docker](https://github.com/hurlenko/filebrowser-docker) - 🐳 filebrowser inside Docker container
-
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
-
-*   [Mereithhh/vps-scripts](https://github.com/Mereithhh/vps-scripts) - 一些常用脚本
-
-*   [xykt/RegionRestrictionCheck](https://github.com/xykt/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [lee1080/CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
-
-*   [yulewang/cloudflare-api-v4-ddns](https://github.com/yulewang/cloudflare-api-v4-ddns) - Cloudflare API v4 Dynamic DNS Update in Bash
-
-*   [cmliu/CloudFlareIPlus](https://github.com/cmliu/CloudFlareIPlus) - 自动获取 AS209242 CIDR 并验证最新 CloudFlareCDN IP
-
-*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
-
-*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
-
-*   [Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker) - 独角数卡(发卡)Docker一键部署，支持AMD64/ARM64
-
-*   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
-
-*   [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container) - Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端
-
-*   [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) - 部署哪吒面板到fly.io
-
-*   [hiifeng/V2ray-for-Replit](https://github.com/hiifeng/V2ray-for-Replit) - The tool can install v2ray on the repl, including VMess and VLess protocols, it will automatically switch IP, you need to fork this repl, read readme.md and run it. Create By xiaowansm，Modlfy By ifeng.
-
-*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Trojan Panel installation script / Trojan Panel 一键安装脚本
-
-*   [MXCCO/lxdpro](https://github.com/MXCCO/lxdpro) - 一个基于LXD开系统容器的LXC与虚拟机KVM脚本,开小鸡不求人,让合租VPS更加方便
-
-*   [fscarmen/tools](https://github.com/fscarmen/tools) -
-
-*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
-
-*   [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-
-*   [uxh/superspeed](https://github.com/uxh/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh，修复无法测速问题
-
-*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-
-*   [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-
-*   [hiifeng/v2ray](https://github.com/hiifeng/v2ray) - V2ray多合一脚本，支持VMESS+websocket+TLS+Nginx、VLESS+TCP+XTLS、VLESS+TCP+TLS等组合
-
-*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-
-*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
-
-*   [daycat/stupid-simple-vmess](https://github.com/daycat/stupid-simple-vmess) - the hands-down most simple Vmess script
-
-*   [ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) - 微信公众号转RSS
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
-*   [stilleshan/rssforever](https://github.com/stilleshan/rssforever) - Nginx + TTRSS / FreshRSS + RSSHub 整合 docker 容器化一键部署方案.
-
 ## PHP
 
 *   [jiuhunwl/short\_videos](https://github.com/jiuhunwl/short_videos) - 支持平台:网易云，抖音，快手，小红书，汽水音乐，微博，bilibili，皮皮虾，皮皮搞笑等，支持短视频图集去水印
@@ -2518,6 +2434,90 @@
 *   [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
 
 *   [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
+
+## Shell
+
+*   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
+
+*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+
+*   [yuju520/YujuToolBox](https://github.com/yuju520/YujuToolBox) - 一个Shell脚本工具箱
+
+*   [discourse/discourse\_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
+
+*   [ypq123456789/TrafficCop](https://github.com/ypq123456789/TrafficCop) - 监控VPS流量使用，到达限制自动限流/关机，保留SSH端口可用
+
+*   [fscarmen/sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
+
+*   [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
+
+*   [bin456789/reinstall](https://github.com/bin456789/reinstall) - 一键DD/重装脚本 (One-click reinstall OS on VPS)
+
+*   [duyanghao/kubernetes-reading-notes](https://github.com/duyanghao/kubernetes-reading-notes) - Kubernetes源码阅读笔记，专注云原生、边缘计算、程序员综合素质以及自我修养
+
+*   [hurlenko/filebrowser-docker](https://github.com/hurlenko/filebrowser-docker) - 🐳 filebrowser inside Docker container
+
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [fscarmen/ArgoX](https://github.com/fscarmen/ArgoX) - Argo Xray for VPS one-click script. 一键脚本
+
+*   [Mereithhh/vps-scripts](https://github.com/Mereithhh/vps-scripts) - 一些常用脚本
+
+*   [xykt/RegionRestrictionCheck](https://github.com/xykt/RegionRestrictionCheck) - A bash script to check the status of your IP on various geo-restricted services.
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [lee1080/CloudflareSpeedTestDDNS](https://github.com/lee1080/CloudflareSpeedTestDDNS) - 使用CloudflareSpeedTest工具优选IP后自动DDNS到Cloudflare
+
+*   [yulewang/cloudflare-api-v4-ddns](https://github.com/yulewang/cloudflare-api-v4-ddns) - Cloudflare API v4 Dynamic DNS Update in Bash
+
+*   [cmliu/CloudFlareIPlus](https://github.com/cmliu/CloudFlareIPlus) - 自动获取 AS209242 CIDR 并验证最新 CloudFlareCDN IP
+
+*   [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) - :books: 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！
+
+*   [flucont/btcloud](https://github.com/flucont/btcloud) - PHP开发的宝塔面板第三方云端
+
+*   [Apocalypsor/dujiaoka-docker](https://github.com/Apocalypsor/dujiaoka-docker) - 独角数卡(发卡)Docker一键部署，支持AMD64/ARM64
+
+*   [mjjonone/mjj](https://github.com/mjjonone/mjj) - 该仓库提供了一键部署mjj试用项目的镜像和脚本,支持多种容器平台。包含科学上网功能,可以查看节点信息和订阅链接。同时包含Minecraft服务器搭建方案。
+
+*   [fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container) - Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端
+
+*   [lyj0309/nezha-fly](https://github.com/lyj0309/nezha-fly) - 部署哪吒面板到fly.io
+
+*   [hiifeng/V2ray-for-Replit](https://github.com/hiifeng/V2ray-for-Replit) - The tool can install v2ray on the repl, including VMess and VLess protocols, it will automatically switch IP, you need to fork this repl, read readme.md and run it. Create By xiaowansm，Modlfy By ifeng.
+
+*   [trojanpanel/install-script](https://github.com/trojanpanel/install-script) - Trojan Panel installation script / Trojan Panel 一键安装脚本
+
+*   [MXCCO/lxdpro](https://github.com/MXCCO/lxdpro) - 一个基于LXD开系统容器的LXC与虚拟机KVM脚本,开小鸡不求人,让合租VPS更加方便
+
+*   [fscarmen/tools](https://github.com/fscarmen/tools) -
+
+*   [spiritLHLS/ecs](https://github.com/spiritLHLS/ecs) - VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs
+
+*   [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+
+*   [uxh/superspeed](https://github.com/uxh/superspeed) - 包含全国各地测速节点的一键测速脚本 Superspeed.sh，修复无法测速问题
+
+*   [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+
+*   [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
+
+*   [hiifeng/v2ray](https://github.com/hiifeng/v2ray) - V2ray多合一脚本，支持VMESS+websocket+TLS+Nginx、VLESS+TCP+XTLS、VLESS+TCP+TLS等组合
+
+*   [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+
+*   [emptysuns/Hi\_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
+
+*   [daycat/stupid-simple-vmess](https://github.com/daycat/stupid-simple-vmess) - the hands-down most simple Vmess script
+
+*   [ttttmr/Wechat2RSS](https://github.com/ttttmr/Wechat2RSS) - 微信公众号转RSS
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+
+*   [stilleshan/rssforever](https://github.com/stilleshan/rssforever) - Nginx + TTRSS / FreshRSS + RSSHub 整合 docker 容器化一键部署方案.
 
 ## Java
 
