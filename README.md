@@ -1391,6 +1391,8 @@
 
 *   [adryfish/fingerprint-chromium](https://github.com/adryfish/fingerprint-chromium) - An open source fingerprint browser based on Ungoogled Chromium. 指纹浏览器 隐私浏览器
 
+*   [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
 *   [langgptai/awesome-grok-prompts](https://github.com/langgptai/awesome-grok-prompts) - A comprehensive collection of advanced prompts engineered for Grok AI. Features optimized templates, strategies, and expert techniques to maximize Grok's potential across diverse applications.
 
 *   [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
@@ -1641,7 +1643,7 @@
 
 *   [shareAI-lab/analysis\_claude\_code](https://github.com/shareAI-lab/analysis_claude_code) - 本仓库包含对 Claude Code v1.0.33 进行逆向工程的完整研究和分析资料。包括对混淆源代码的深度技术分析、系统架构文档，以及重构 Claude      Code agent 系统的实现蓝图。主要发现包括实时 Steering 机制、多 Agent      架构、智能上下文管理和工具执行管道。该项目为理解现代 AI agent 系统设计和实现提供技术参考。
 
-*   [sansan0/mao-map](https://github.com/sansan0/mao-map) - 📍 毛主席足迹地图 - 交互式动态展示1893-1976年完整轨迹，时间轴播放+背景音乐+隐藏彩蛋。底部为网友整理的毛泽东年谱，欢迎协作完善数据。星星之火在哪里
+*   [sansan0/mao-map](https://github.com/sansan0/mao-map) - 📍 毛主席足迹地图 - 交互式动态展示1893-1976年完整轨迹，时间轴播放+背景音乐+隐藏彩蛋。底部为网友整理的毛泽东年谱，欢迎协作完善数据。星星之火，可以燎原 / A single spark can start a prairie fire
 
 *   [justlovemaki/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily) - AI资讯日报 是一个基于 Cloudflare Workers 驱动的内容聚合与生成平台。它每日为您精选 AI 领域的最新动态，包括行业新闻、热门开源项目、前沿学术论文、科技大V社交媒体言论，并通过 Google Gemini 模型进行智能处理与摘要生成，最终自动发布到 GitHub Pages 生成 AI 日报。
 
@@ -1888,8 +1890,6 @@
 *   [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 
 *   [liyupi/code-nav](https://github.com/liyupi/code-nav) - 💎 程序员一站式编程学习交流社区，免费的编程学习路线、入门教程、原创项目教程、程序员bug修复手册、保姆级写简历技巧，帮你学好编程、做出项目、拿到满意的 Offer！☁️ 本项目前后端均开源，励志成为最好的全栈云开发项目！
-
-*   [17881055/UnionLotto](https://github.com/17881055/UnionLotto) - 双色球 统计 electron+react
 
 ## Go
 
