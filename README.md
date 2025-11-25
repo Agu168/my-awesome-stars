@@ -84,8 +84,6 @@
 
 *   [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot
 
-*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
-
 *   [chadyi/AITradeGame](https://github.com/chadyi/AITradeGame) -
 
 *   [LargeCupPanda/AITradingSimulator](https://github.com/LargeCupPanda/AITradingSimulator) - 基于大语言模型模拟的智能交易决策系统，支持自定义交易策略、实时市场数据、专业级绩效分析和实时交易大屏。
@@ -1580,7 +1578,7 @@
 
 *   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
 
-*   [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) - 🐝 开源记账App，支持自建服务器同步(Supabase/WebDAV) | Open-source finance tracker with self-hosted sync, cross-platform, privacy-first.
+*   [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount) - 🐝 开源记账App，支持iCloud/自建服务器同步(Supabase/WebDAV) | Open-source finance tracker with iCloud & self-hosted sync, cross-platform, privacy-first.
 
 *   [anandnet/Harmony-Music](https://github.com/anandnet/Harmony-Music) - A cross platform App for streaming Music
 
@@ -1897,6 +1895,8 @@
 *   [yincongcyincong/MuseBot](https://github.com/yincongcyincong/MuseBot) - supports Telegram, Discord, Slack, Lark（飞书），钉钉, 企业微信, QQ, 微信, compatible with various LLMs including OpenAI, Gemini, DeepSeek, Doubao, and OpenRouter. It offers intelligent conversation, image generation, video creation, and more. Works seamlessly in both private chats and group settings.
 
 *   [xuemian168/domain-scanner](https://github.com/xuemian168/domain-scanner) - 【域名扫描器】一个用Go语言编写的强大且灵活的域名注册可用性检查扫描工具 A powerful and flexible domain name availability checker written in Go. This domain scanner helps you find available domain based on various patterns and filters.
+
+*   [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 
 *   [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-time dashboard
 
@@ -2256,7 +2256,7 @@
 
 *   [chaitin/xray](https://github.com/chaitin/xray) - 一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档
 
-*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
+*   [chaos-zhu/easynode](https://github.com/chaos-zhu/easynode) - 一个多功能Linux\&win服务器WEB终端面板(webSSH\&webSFTP). 更新通知TG：
 
 *   [ryanuo/blazeB2](https://github.com/ryanuo/blazeB2) - 📷An image bed tool with CDN acceleration function developed based on backBlazeb2 API & ⚡ cloudflare
 
