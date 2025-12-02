@@ -499,7 +499,7 @@
 
 *   [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation (Dall-E, SD, Flux) and dynamic loading generators.
 
-*   [impredicative/podgenai](https://github.com/impredicative/podgenai) - GPT-5 based informational audiobook/podcast mp3 generator
+*   [impredicative/podgenai](https://github.com/impredicative/podgenai) - OpenAI GPT based informational audiobook/podcast mp3 generator
 
 *   [abersheeran/zibai](https://github.com/abersheeran/zibai) - A modern high-performance pure-Python WSGI server.
 
